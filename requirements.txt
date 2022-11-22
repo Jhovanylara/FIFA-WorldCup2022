@@ -7,3 +7,4 @@ plotly
 altair
 missingno
 sqlalchemy
+pymysql
