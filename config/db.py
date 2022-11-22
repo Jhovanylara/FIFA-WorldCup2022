@@ -2,10 +2,11 @@ from sqlalchemy import create_engine, MetaData
 import pandas as pd
 
 matchesURL='https://raw.githubusercontent.com/Jhovanylara/FIFA-WorldCup2022/master/config/WorldCupMatches.csv'
+matches2URL=
 cupsURL='https://raw.githubusercontent.com/Jhovanylara/FIFA-WorldCup2022/master/config/WorldCups.csv'
 matches=pd.read_csv(matchesURL)
 cups=pd.read_csv(cupsURL)
-
+matches2=pd.read(matches2URL)
 matches=matches.dropna(how='all')
 matches.drop(columns=['Win conditions','Attendance','City','Stadium','Referee','Assistant 1', 'Assistant 2', 'Home Team Initials','Away Team Initials'], inplace=True)
 matches=matches.replace({'German DR':'Germany','Germany FR':'Germany'})

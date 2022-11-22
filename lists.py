@@ -1,12 +1,12 @@
 
-Grupos=['GrupoA','GrupoB','GrupoC','GrupoD','GrupoE','GrupoF','GrupoG','GrupoH']
+Grupos=['GroupA','GroupB','GroupC','GroupD','GroupE','GroupF','GroupG','GroupH']
 
-GrupoA=['Qatar', 'Ecuador', 'Senegal', 'Netherlands']
-GrupoB=['England', 'IR Iran', 'USA', 'Wales']
-GrupoC=['Argentina','Saudi Arabia', 'Mexico', 'Poland']
-GrupoD=['France', 'Australia', 'Denmark', 'Tunisia']
-GrupoE=['Spain','Costa Rica', 'Germany', 'Japan']
-GrupoF=['Belgium', 'Canada', 'Morocco', 'Croatia']
-GrupoG=['Brazil', 'Serbia', 'Switzerland', 'Cameroon']
-GrupoH=['Portugal', 'Ghana', 'Uruguay', 'Korea Republic' ]
+GroupA=['Qatar', 'Ecuador', 'Senegal', 'Netherlands']
+GroupB=['England', 'IR Iran', 'USA', 'Wales']
+GroupC=['Argentina','Saudi Arabia', 'Mexico', 'Poland']
+GroupD=['France', 'Australia', 'Denmark', 'Tunisia']
+GroupE=['Spain','Costa Rica', 'Germany', 'Japan']
+GroupF=['Belgium', 'Canada', 'Morocco', 'Croatia']
+GroupG=['Brazil', 'Serbia', 'Switzerland', 'Cameroon']
+GroupH=['Portugal', 'Ghana', 'Uruguay', 'Korea Republic' ]
 
