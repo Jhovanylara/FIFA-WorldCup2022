@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from PIL import Image
 import streamlit as st
 from plotly.subplots import make_subplots
-from db import *
+from config.db import engine
 from lists import *
 col1,col2,col3=st.columns(3)
 with col2:
