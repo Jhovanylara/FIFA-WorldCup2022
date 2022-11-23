@@ -1,21 +1,17 @@
-from sqlalchemy import create_engine, MetaData
 import pandas as pd
+from pathlib import Path
 
+#Getting data from github
 matchesURL='https://raw.githubusercontent.com/Jhovanylara/FIFA-WorldCup2022/master/config/WorldCupMatches.csv'
 wcmatchesURL='https://raw.githubusercontent.com/Jhovanylara/FIFA-WorldCup2022/master/Datasets/wcmatches.csv'
-cupsURL='https://raw.githubusercontent.com/Jhovanylara/FIFA-WorldCup2022/master/config/WorldCups.csv'
 
 matches=pd.read_csv(matchesURL)
-cups=pd.read_csv(cupsURL)
 wcmatches=pd.read_csv(wcmatchesURL)
 
+#transformation
 matches=matches.dropna(how='all')
 matches.drop(columns=['Win conditions','Attendance','City','Stadium','Referee','Assistant 1', 'Assistant 2', 'Home Team Initials','Away Team Initials'], inplace=True)
 matches=matches.replace({'German DR':'Germany','Germany FR':'Germany'})
-
-wcmatches.drop(columns=['country','city','win_conditions','month', 'dayofweek', 'losing_team'], inplace=True)
-wcmatches['winning_team']=wcmatches['winning_team'].fillna('Tied')
-
 #Creamos una nueva columna con el resultado del local, (Win, tie o Lost)
 def wins(row):
     if row['Home Team Goals']> row['Away Team Goals']:
@@ -24,16 +20,17 @@ def wins(row):
         return 'Tied'
     if row['Home Team Goals']< row['Away Team Goals']:
         return 'Lost'
-
 matches['Home result']=matches.apply(lambda row: wins(row), axis=1)
-#Creamos una base de datos SQL llamada 'FIFA'
-SQLALCHEMY_DATABASE_URL = "mysql+pymysql://root:Uwovuqo_86@localhost/FIFA"
 
-#Ingestamos nuestros dataframes con engine
-engine = create_engine(SQLALCHEMY_DATABASE_URL)
-with engine.connect() as conn, conn.begin(): 
-    matches.to_sql("matches", conn, if_exists='append', index=False)
-    wcmatches.to_sql("wcmatches", conn, if_exists='append', index=False)
-    cups.to_sql("cups", conn, if_exists='append', index=False)
-    
-meta= MetaData()
+matches=matches.rename(columns={'Home Team Name':'home_team', 'Away Team Name':'away_team','Home Team Goals':'Home_score','Away Team Goals':'away_score' })
+
+wcmatches.drop(columns=['country','city','win_conditions','month', 'dayofweek', 'losing_team'], inplace=True)
+wcmatches['winning_team']=wcmatches['winning_team'].fillna('Tied')
+
+filepath=Path('Datasets/clean_matches.csv')
+filepath.parent.mkdir(parents=True, exist_ok=True)
+matches.to_csv(filepath, index=False)
+
+filepath=Path('Datasets/clean_wcmatches.csv')
+filepath.parent.mkdir(parents=True, exist_ok=True)
+wcmatches.to_csv(filepath, index=False)

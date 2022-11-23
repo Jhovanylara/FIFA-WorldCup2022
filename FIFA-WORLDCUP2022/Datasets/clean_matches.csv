@@ -1,0 +1,853 @@
+Year,Datetime,Stage,home_team,Home_score,away_score,away_team,Half-time Home Goals,Half-time Away Goals,RoundID,MatchID,Home result
+1930.0,13 Jul 1930 - 15:00 ,Group 1,France,4.0,1.0,Mexico,3.0,0.0,201.0,1096.0,Won
+1930.0,13 Jul 1930 - 15:00 ,Group 4,USA,3.0,0.0,Belgium,2.0,0.0,201.0,1090.0,Won
+1930.0,14 Jul 1930 - 12:45 ,Group 2,Yugoslavia,2.0,1.0,Brazil,2.0,0.0,201.0,1093.0,Won
+1930.0,14 Jul 1930 - 14:50 ,Group 3,Romania,3.0,1.0,Peru,1.0,0.0,201.0,1098.0,Won
+1930.0,15 Jul 1930 - 16:00 ,Group 1,Argentina,1.0,0.0,France,0.0,0.0,201.0,1085.0,Won
+1930.0,16 Jul 1930 - 14:45 ,Group 1,Chile,3.0,0.0,Mexico,1.0,0.0,201.0,1095.0,Won
+1930.0,17 Jul 1930 - 12:45 ,Group 2,Yugoslavia,4.0,0.0,Bolivia,0.0,0.0,201.0,1092.0,Won
+1930.0,17 Jul 1930 - 14:45 ,Group 4,USA,3.0,0.0,Paraguay,2.0,0.0,201.0,1097.0,Won
+1930.0,18 Jul 1930 - 14:30 ,Group 3,Uruguay,1.0,0.0,Peru,0.0,0.0,201.0,1099.0,Won
+1930.0,19 Jul 1930 - 12:50 ,Group 1,Chile,1.0,0.0,France,0.0,0.0,201.0,1094.0,Won
+1930.0,19 Jul 1930 - 15:00 ,Group 1,Argentina,6.0,3.0,Mexico,3.0,1.0,201.0,1086.0,Won
+1930.0,20 Jul 1930 - 13:00 ,Group 2,Brazil,4.0,0.0,Bolivia,1.0,0.0,201.0,1091.0,Won
+1930.0,20 Jul 1930 - 15:00 ,Group 4,Paraguay,1.0,0.0,Belgium,1.0,0.0,201.0,1089.0,Won
+1930.0,21 Jul 1930 - 14:50 ,Group 3,Uruguay,4.0,0.0,Romania,4.0,0.0,201.0,1100.0,Won
+1930.0,22 Jul 1930 - 14:45 ,Group 1,Argentina,3.0,1.0,Chile,2.0,1.0,201.0,1084.0,Won
+1930.0,26 Jul 1930 - 14:45 ,Semi-finals,Argentina,6.0,1.0,USA,1.0,0.0,202.0,1088.0,Won
+1930.0,27 Jul 1930 - 14:45 ,Semi-finals,Uruguay,6.0,1.0,Yugoslavia,3.0,1.0,202.0,1101.0,Won
+1930.0,30 Jul 1930 - 14:15 ,Final,Uruguay,4.0,2.0,Argentina,1.0,2.0,405.0,1087.0,Won
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Austria,3.0,2.0,France,0.0,0.0,204.0,1104.0,Won
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Hungary,4.0,2.0,Egypt,2.0,2.0,204.0,1119.0,Won
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Switzerland,3.0,2.0,Netherlands,2.0,1.0,204.0,1133.0,Won
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Sweden,3.0,2.0,Argentina,1.0,1.0,204.0,1102.0,Won
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Germany,5.0,2.0,Belgium,1.0,2.0,204.0,1108.0,Won
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Spain,3.0,1.0,Brazil,3.0,0.0,204.0,1111.0,Won
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Italy,7.0,1.0,USA,3.0,0.0,204.0,1135.0,Won
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Czechoslovakia,2.0,1.0,Romania,0.0,1.0,204.0,1141.0,Won
+1934.0,31 May 1934 - 16:30 ,Quarter-finals,Czechoslovakia,3.0,2.0,Switzerland,1.0,1.0,418.0,1143.0,Won
+1934.0,31 May 1934 - 16:30 ,Quarter-finals,Germany,2.0,1.0,Sweden,0.0,0.0,418.0,1129.0,Won
+1934.0,31 May 1934 - 16:30 ,Quarter-finals,Italy,1.0,1.0,Spain,0.0,0.0,418.0,1122.0,Tied
+1934.0,31 May 1934 - 16:30 ,Quarter-finals,Austria,2.0,1.0,Hungary,1.0,0.0,418.0,1106.0,Won
+1934.0,01 Jun 1934 - 16:30 ,Quarter-finals,Italy,1.0,0.0,Spain,1.0,0.0,418.0,1123.0,Won
+1934.0,03 Jun 1934 - 16:30 ,Semi-finals,Italy,1.0,0.0,Austria,1.0,0.0,3492.0,1107.0,Won
+1934.0,03 Jun 1934 - 16:30 ,Semi-finals,Czechoslovakia,3.0,1.0,Germany,1.0,0.0,3492.0,1130.0,Won
+1934.0,07 Jun 1934 - 18:00 ,Match for third place,Germany,3.0,2.0,Austria,3.0,1.0,3491.0,1105.0,Won
+1934.0,10 Jun 1934 - 17:30 ,Final,Italy,2.0,1.0,Czechoslovakia,0.0,0.0,3490.0,1134.0,Won
+1938.0,04 Jun 1938 - 17:00 ,First round,Switzerland,1.0,1.0,Germany,0.0,0.0,206.0,1165.0,Tied
+1938.0,05 Jun 1938 - 17:00 ,First round,Hungary,6.0,0.0,Dutch East Indies,4.0,0.0,206.0,1173.0,Won
+1938.0,05 Jun 1938 - 17:00 ,First round,France,3.0,1.0,Belgium,2.0,1.0,206.0,1146.0,Won
+1938.0,05 Jun 1938 - 17:00 ,First round,Cuba,3.0,3.0,Romania,0.0,0.0,206.0,1156.0,Tied
+1938.0,05 Jun 1938 - 17:00 ,First round,Italy,2.0,1.0,Norway,0.0,0.0,206.0,1179.0,Won
+1938.0,05 Jun 1938 - 17:30 ,First round,Brazil,6.0,5.0,Poland,0.0,0.0,206.0,1150.0,Won
+1938.0,05 Jun 1938 - 18:30 ,First round,Czechoslovakia,3.0,0.0,Netherlands,0.0,0.0,206.0,1172.0,Won
+1938.0,09 Jun 1938 - 18:00 ,First round,Cuba,2.0,1.0,Romania,0.0,1.0,206.0,1157.0,Won
+1938.0,09 Jun 1938 - 18:00 ,First round,Switzerland,4.0,2.0,Germany,1.0,2.0,206.0,1166.0,Won
+1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Brazil,1.0,1.0,Czechoslovakia,0.0,0.0,429.0,1152.0,Tied
+1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Hungary,2.0,0.0,Switzerland,1.0,0.0,429.0,1175.0,Won
+1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Sweden,8.0,0.0,Cuba,4.0,0.0,429.0,1158.0,Won
+1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Italy,3.0,1.0,France,1.0,1.0,429.0,1164.0,Won
+1938.0,14 Jun 1938 - 18:00 ,Quarter-finals,Brazil,2.0,1.0,Czechoslovakia,0.0,1.0,429.0,1153.0,Won
+1938.0,16 Jun 1938 - 18:00 ,Semi-finals,Hungary,5.0,1.0,Sweden,3.0,1.0,3489.0,1176.0,Won
+1938.0,16 Jun 1938 - 18:00 ,Semi-finals,Italy,2.0,1.0,Brazil,0.0,0.0,3489.0,1149.0,Won
+1938.0,19 Jun 1938 - 17:00 ,Match for third place,Brazil,4.0,2.0,Sweden,1.0,2.0,3488.0,1151.0,Won
+1938.0,19 Jun 1938 - 17:00 ,Final,Italy,4.0,2.0,Hungary,3.0,1.0,3487.0,1174.0,Won
+1950.0,24 Jun 1950 - 15:00 ,Group 1,Brazil,4.0,0.0,Mexico,1.0,0.0,208.0,1187.0,Won
+1950.0,25 Jun 1950 - 15:00 ,Group 2,England,2.0,0.0,Chile,1.0,0.0,208.0,1192.0,Won
+1950.0,25 Jun 1950 - 15:00 ,Group 2,Spain,3.0,1.0,USA,0.0,1.0,208.0,1208.0,Won
+1950.0,25 Jun 1950 - 15:00 ,Group 3,Sweden,3.0,2.0,Italy,2.0,1.0,208.0,1219.0,Won
+1950.0,25 Jun 1950 - 15:00 ,Group 1,Yugoslavia,3.0,0.0,Switzerland,0.0,0.0,208.0,1230.0,Won
+1950.0,28 Jun 1950 - 15:00 ,Group 1,Brazil,2.0,2.0,Switzerland,2.0,1.0,208.0,1188.0,Tied
+1950.0,28 Jun 1950 - 15:00 ,Group 1,Yugoslavia,4.0,1.0,Mexico,2.0,0.0,208.0,1225.0,Won
+1950.0,29 Jun 1950 - 15:00 ,Group 2,Spain,2.0,0.0,Chile,2.0,0.0,208.0,1193.0,Won
+1950.0,29 Jun 1950 - 15:30 ,Group 3,Sweden,2.0,2.0,Paraguay,2.0,1.0,208.0,1228.0,Tied
+1950.0,29 Jun 1950 - 15:00 ,Group 2,USA,1.0,0.0,England,1.0,0.0,208.0,1202.0,Won
+1950.0,01 Jul 1950 - 15:00 ,Group 1,Brazil,2.0,0.0,Yugoslavia,1.0,0.0,208.0,1191.0,Won
+1950.0,02 Jul 1950 - 15:00 ,Group 2,Spain,1.0,0.0,England,0.0,0.0,208.0,1199.0,Won
+1950.0,02 Jul 1950 - 15:00 ,Group 3,Italy,2.0,0.0,Paraguay,1.0,0.0,208.0,1218.0,Won
+1950.0,02 Jul 1950 - 15:00 ,Group 4,Uruguay,8.0,0.0,Bolivia,4.0,0.0,208.0,1185.0,Won
+1950.0,02 Jul 1950 - 15:40 ,Group 1,Switzerland,2.0,1.0,Mexico,2.0,0.0,208.0,1222.0,Won
+1950.0,02 Jul 1950 - 15:00 ,Group 2,Chile,5.0,2.0,USA,2.0,0.0,208.0,1194.0,Won
+1950.0,09 Jul 1950 - 15:00 ,Group 6,Uruguay,2.0,2.0,Spain,1.0,2.0,209.0,1207.0,Tied
+1950.0,09 Jul 1950 - 15:00 ,Group 6,Brazil,7.0,1.0,Sweden,3.0,0.0,209.0,1189.0,Won
+1950.0,13 Jul 1950 - 15:00 ,Group 6,Brazil,6.0,1.0,Spain,3.0,0.0,209.0,1186.0,Won
+1950.0,13 Jul 1950 - 15:00 ,Group 6,Uruguay,3.0,2.0,Sweden,1.0,2.0,209.0,1231.0,Won
+1950.0,16 Jul 1950 - 15:00 ,Group 6,Sweden,3.0,1.0,Spain,2.0,0.0,209.0,1206.0,Won
+1950.0,16 Jul 1950 - 15:00 ,Group 6,Uruguay,2.0,1.0,Brazil,0.0,0.0,209.0,1190.0,Won
+1954.0,16 Jun 1954 - 18:00 ,Group 3,Uruguay,2.0,0.0,Czechoslovakia,0.0,0.0,211.0,1315.0,Won
+1954.0,16 Jun 1954 - 18:00 ,Group 3,Austria,1.0,0.0,Scotland,1.0,0.0,211.0,1236.0,Won
+1954.0,16 Jun 1954 - 18:00 ,Group 1,Brazil,5.0,0.0,Mexico,4.0,0.0,211.0,1249.0,Won
+1954.0,16 Jun 1954 - 18:00 ,Group 1,Yugoslavia,1.0,0.0,France,1.0,0.0,211.0,1276.0,Won
+1954.0,17 Jun 1954 - 18:00 ,Group 2,Germany,4.0,1.0,Turkey,1.0,1.0,211.0,1283.0,Won
+1954.0,17 Jun 1954 - 18:00 ,Group 2,Hungary,9.0,0.0,Korea Republic,4.0,0.0,211.0,1294.0,Won
+1954.0,17 Jun 1954 - 18:10 ,Group 4,England,4.0,4.0,Belgium,0.0,0.0,211.0,1240.0,Tied
+1954.0,17 Jun 1954 - 17:50 ,Group 4,Switzerland,2.0,1.0,Italy,1.0,1.0,211.0,1300.0,Won
+1954.0,19 Jun 1954 - 16:50 ,Group 3,Uruguay,7.0,0.0,Scotland,2.0,0.0,211.0,1313.0,Won
+1954.0,19 Jun 1954 - 17:00 ,Group 3,Austria,5.0,0.0,Czechoslovakia,4.0,0.0,211.0,1238.0,Won
+1954.0,19 Jun 1954 - 17:10 ,Group 1,France,3.0,2.0,Mexico,1.0,0.0,211.0,1275.0,Won
+1954.0,19 Jun 1954 - 17:00 ,Group 1,Brazil,1.0,1.0,Yugoslavia,0.0,0.0,211.0,1252.0,Tied
+1954.0,20 Jun 1954 - 16:50 ,Group 2,Hungary,8.0,3.0,Germany,3.0,1.0,211.0,1277.0,Won
+1954.0,20 Jun 1954 - 17:00 ,Group 2,Turkey,7.0,0.0,Korea Republic,4.0,0.0,211.0,1304.0,Won
+1954.0,20 Jun 1954 - 17:10 ,Group 4,England,2.0,0.0,Switzerland,1.0,0.0,211.0,1263.0,Won
+1954.0,20 Jun 1954 - 17:00 ,Group 4,Italy,4.0,1.0,Belgium,1.0,0.0,211.0,1243.0,Won
+1954.0,23 Jun 1954 - 18:00 ,Group 2,Germany,7.0,2.0,Turkey,3.0,1.0,211.0,1284.0,Won
+1954.0,23 Jun 1954 - 18:00 ,Group 4,Switzerland,4.0,1.0,Italy,1.0,0.0,211.0,1301.0,Won
+1954.0,26 Jun 1954 - 17:00 ,Quarter-finals,Uruguay,4.0,2.0,England,2.0,1.0,212.0,1264.0,Won
+1954.0,26 Jun 1954 - 17:00 ,Quarter-finals,Austria,7.0,5.0,Switzerland,5.0,4.0,212.0,1237.0,Won
+1954.0,27 Jun 1954 - 17:00 ,Quarter-finals,Germany,2.0,0.0,Yugoslavia,1.0,0.0,212.0,1285.0,Won
+1954.0,27 Jun 1954 - 17:00 ,Quarter-finals,Hungary,4.0,2.0,Brazil,2.0,1.0,212.0,1248.0,Won
+1954.0,30 Jun 1954 - 18:00 ,Semi-finals,Germany,6.0,1.0,Austria,1.0,0.0,462.0,1233.0,Won
+1954.0,30 Jun 1954 - 18:00 ,Semi-finals,Hungary,4.0,2.0,Uruguay,0.0,0.0,462.0,1295.0,Won
+1954.0,03 Jul 1954 - 17:00 ,Match for third place,Austria,3.0,1.0,Uruguay,1.0,1.0,3485.0,1239.0,Won
+1954.0,04 Jul 1954 - 17:00 ,Final,Germany,3.0,2.0,Hungary,2.0,2.0,3484.0,1278.0,Won
+1958.0,08 Jun 1958 - 14:00 ,Group 3,Sweden,3.0,0.0,Mexico,1.0,0.0,220.0,1415.0,Won
+1958.0,08 Jun 1958 - 19:00 ,Group 4,Soviet Union,2.0,2.0,England,1.0,0.0,220.0,1372.0,Tied
+1958.0,08 Jun 1958 - 19:00 ,Group 1,Argentina,1.0,3.0,Germany,1.0,2.0,220.0,1323.0,Lost
+1958.0,08 Jun 1958 - 19:00 ,Group 3,Hungary,1.0,1.0,Wales,1.0,1.0,220.0,1407.0,Tied
+1958.0,08 Jun 1958 - 19:00 ,Group 2,France,7.0,3.0,Paraguay,2.0,2.0,220.0,1386.0,Won
+1958.0,08 Jun 1958 - 19:00 ,Group 2,Yugoslavia,1.0,1.0,Scotland,1.0,0.0,220.0,1434.0,Tied
+1958.0,08 Jun 1958 - 19:00 ,Group 4,Brazil,3.0,0.0,Austria,1.0,0.0,220.0,1326.0,Won
+1958.0,08 Jun 1958 - 19:00 ,Group 1,Northern Ireland,1.0,0.0,Czechoslovakia,1.0,0.0,220.0,1421.0,Won
+1958.0,11 Jun 1958 - 19:00 ,Group 4,Brazil,0.0,0.0,England,0.0,0.0,220.0,1339.0,Tied
+1958.0,11 Jun 1958 - 19:00 ,Group 3,Mexico,1.0,1.0,Wales,0.0,1.0,220.0,1418.0,Tied
+1958.0,11 Jun 1958 - 19:00 ,Group 2,Paraguay,3.0,2.0,Scotland,2.0,1.0,220.0,1423.0,Won
+1958.0,11 Jun 1958 - 19:00 ,Group 2,Yugoslavia,3.0,2.0,France,1.0,1.0,220.0,1388.0,Won
+1958.0,11 Jun 1958 - 19:00 ,Group 4,Soviet Union,2.0,0.0,Austria,1.0,0.0,220.0,1332.0,Won
+1958.0,11 Jun 1958 - 19:00 ,Group 1,Germany,2.0,2.0,Czechoslovakia,0.0,2.0,220.0,1391.0,Tied
+1958.0,11 Jun 1958 - 19:00 ,Group 1,Argentina,3.0,1.0,Northern Ireland,1.0,1.0,220.0,1324.0,Won
+1958.0,12 Jun 1958 - 19:00 ,Group 3,Sweden,2.0,1.0,Hungary,1.0,0.0,220.0,1406.0,Won
+1958.0,15 Jun 1958 - 14:00 ,Group 3,Sweden,0.0,0.0,Wales,0.0,0.0,220.0,1438.0,Tied
+1958.0,15 Jun 1958 - 19:00 ,Group 4,Brazil,2.0,0.0,Soviet Union,1.0,0.0,220.0,1344.0,Won
+1958.0,15 Jun 1958 - 19:00 ,Group 1,Germany,2.0,2.0,Northern Ireland,1.0,1.0,220.0,1389.0,Tied
+1958.0,15 Jun 1958 - 19:00 ,Group 3,Hungary,4.0,0.0,Mexico,1.0,0.0,220.0,1403.0,Won
+1958.0,15 Jun 1958 - 19:00 ,Group 2,Paraguay,3.0,3.0,Yugoslavia,1.0,2.0,220.0,1426.0,Tied
+1958.0,15 Jun 1958 - 19:00 ,Group 2,France,2.0,1.0,Scotland,2.0,0.0,220.0,1387.0,Won
+1958.0,15 Jun 1958 - 19:00 ,Group 4,England,2.0,2.0,Austria,0.0,1.0,220.0,1327.0,Tied
+1958.0,15 Jun 1958 - 19:00 ,Group 1,Czechoslovakia,6.0,1.0,Argentina,3.0,0.0,220.0,1325.0,Won
+1958.0,17 Jun 1958 - 19:00 ,Group 4,Soviet Union,1.0,0.0,England,0.0,0.0,220.0,1373.0,Won
+1958.0,17 Jun 1958 - 19:00 ,Group 1,Northern Ireland,2.0,1.0,Czechoslovakia,0.0,0.0,220.0,1422.0,Won
+1958.0,17 Jun 1958 - 19:00 ,Group 3,Wales,2.0,1.0,Hungary,0.0,1.0,220.0,1408.0,Won
+1958.0,19 Jun 1958 - 19:00 ,Quarter-finals,Brazil,1.0,0.0,Wales,0.0,0.0,221.0,1345.0,Won
+1958.0,19 Jun 1958 - 19:00 ,Quarter-finals,Germany,1.0,0.0,Yugoslavia,1.0,0.0,221.0,1392.0,Won
+1958.0,19 Jun 1958 - 19:00 ,Quarter-finals,Sweden,2.0,0.0,Soviet Union,0.0,0.0,221.0,1437.0,Won
+1958.0,19 Jun 1958 - 19:00 ,Quarter-finals,France,4.0,0.0,Northern Ireland,1.0,0.0,221.0,1385.0,Won
+1958.0,24 Jun 1958 - 19:00 ,Semi-finals,Sweden,3.0,1.0,Germany,1.0,1.0,488.0,1390.0,Won
+1958.0,24 Jun 1958 - 19:00 ,Semi-finals,Brazil,5.0,2.0,France,2.0,1.0,488.0,1340.0,Won
+1958.0,28 Jun 1958 - 17:00 ,Match for third place,France,6.0,3.0,Germany,3.0,1.0,3483.0,1382.0,Won
+1958.0,29 Jun 1958 - 15:00 ,Final,Brazil,5.0,2.0,Sweden,2.0,1.0,3482.0,1343.0,Won
+1962.0,30 May 1962 - 15:00 ,Group 1,Uruguay,2.0,1.0,Colombia,0.0,1.0,231.0,1479.0,Won
+1962.0,30 May 1962 - 15:00 ,Group 3,Brazil,2.0,0.0,Mexico,0.0,0.0,231.0,1461.0,Won
+1962.0,30 May 1962 - 15:00 ,Group 4,Argentina,1.0,0.0,Bulgaria,1.0,0.0,231.0,1447.0,Won
+1962.0,30 May 1962 - 15:00 ,Group 2,Chile,3.0,1.0,Switzerland,1.0,1.0,231.0,1473.0,Won
+1962.0,31 May 1962 - 15:00 ,Group 1,Soviet Union,2.0,0.0,Yugoslavia,0.0,0.0,231.0,1563.0,Won
+1962.0,31 May 1962 - 15:00 ,Group 3,Czechoslovakia,1.0,0.0,Spain,0.0,0.0,231.0,1498.0,Won
+1962.0,31 May 1962 - 15:00 ,Group 4,Hungary,2.0,1.0,England,1.0,0.0,231.0,1490.0,Won
+1962.0,31 May 1962 - 15:00 ,Group 2,Germany,0.0,0.0,Italy,0.0,0.0,231.0,1507.0,Tied
+1962.0,02 Jun 1962 - 15:00 ,Group 1,Yugoslavia,3.0,1.0,Uruguay,2.0,1.0,231.0,1564.0,Won
+1962.0,02 Jun 1962 - 15:00 ,Group 3,Brazil,0.0,0.0,Czechoslovakia,0.0,0.0,231.0,1462.0,Tied
+1962.0,02 Jun 1962 - 15:00 ,Group 4,England,3.0,1.0,Argentina,2.0,0.0,231.0,1450.0,Won
+1962.0,02 Jun 1962 - 15:00 ,Group 2,Chile,2.0,0.0,Italy,0.0,0.0,231.0,1472.0,Won
+1962.0,03 Jun 1962 - 15:00 ,Group 1,Soviet Union,4.0,4.0,Colombia,3.0,1.0,231.0,1478.0,Tied
+1962.0,03 Jun 1962 - 15:00 ,Group 3,Spain,1.0,0.0,Mexico,0.0,0.0,231.0,1497.0,Won
+1962.0,03 Jun 1962 - 15:00 ,Group 4,Hungary,6.0,1.0,Bulgaria,4.0,0.0,231.0,1470.0,Won
+1962.0,03 Jun 1962 - 15:00 ,Group 2,Germany,2.0,1.0,Switzerland,1.0,0.0,231.0,1510.0,Won
+1962.0,06 Jun 1962 - 15:00 ,Group 1,Soviet Union,2.0,1.0,Uruguay,1.0,0.0,231.0,1562.0,Won
+1962.0,06 Jun 1962 - 15:00 ,Group 3,Brazil,2.0,1.0,Spain,0.0,1.0,231.0,1460.0,Won
+1962.0,06 Jun 1962 - 15:00 ,Group 4,Hungary,0.0,0.0,Argentina,0.0,0.0,231.0,1451.0,Tied
+1962.0,06 Jun 1962 - 15:00 ,Group 2,Germany,2.0,0.0,Chile,1.0,0.0,231.0,1471.0,Won
+1962.0,07 Jun 1962 - 15:00 ,Group 1,Yugoslavia,5.0,0.0,Colombia,2.0,0.0,231.0,1480.0,Won
+1962.0,07 Jun 1962 - 15:00 ,Group 3,Mexico,3.0,1.0,Czechoslovakia,2.0,1.0,231.0,1544.0,Won
+1962.0,07 Jun 1962 - 15:00 ,Group 4,England,0.0,0.0,Bulgaria,0.0,0.0,231.0,1464.0,Tied
+1962.0,07 Jun 1962 - 15:00 ,Group 2,Italy,3.0,0.0,Switzerland,1.0,0.0,231.0,1532.0,Won
+1962.0,10 Jun 1962 - 14:30 ,Quarter-finals,Chile,2.0,1.0,Soviet Union,2.0,1.0,232.0,1474.0,Won
+1962.0,10 Jun 1962 - 14:30 ,Quarter-finals,Brazil,3.0,1.0,England,1.0,1.0,232.0,1459.0,Won
+1962.0,10 Jun 1962 - 14:30 ,Quarter-finals,Czechoslovakia,1.0,0.0,Hungary,1.0,0.0,232.0,1525.0,Won
+1962.0,10 Jun 1962 - 14:30 ,Quarter-finals,Yugoslavia,1.0,0.0,Germany,0.0,0.0,232.0,1511.0,Won
+1962.0,13 Jun 1962 - 14:30 ,Semi-finals,Czechoslovakia,3.0,1.0,Yugoslavia,0.0,0.0,514.0,1559.0,Won
+1962.0,13 Jun 1962 - 14:30 ,Semi-finals,Brazil,4.0,2.0,Chile,2.0,1.0,514.0,1458.0,Won
+1962.0,16 Jun 1962 - 14:30 ,Match for third place,Chile,1.0,0.0,Yugoslavia,0.0,0.0,3481.0,1475.0,Won
+1962.0,17 Jun 1962 - 14:30 ,Final,Brazil,3.0,1.0,Czechoslovakia,1.0,1.0,3480.0,1463.0,Won
+1966.0,11 Jul 1966 - 19:30 ,Group 1,England,0.0,0.0,Uruguay,0.0,0.0,238.0,1636.0,Tied
+1966.0,12 Jul 1966 - 19:30 ,Group 2,Germany,5.0,0.0,Switzerland,3.0,0.0,238.0,1656.0,Won
+1966.0,12 Jul 1966 - 19:30 ,Group 3,Brazil,2.0,0.0,Bulgaria,1.0,0.0,238.0,1596.0,Won
+1966.0,12 Jul 1966 - 19:30 ,Group 4,Soviet Union,3.0,0.0,Korea DPR,2.0,0.0,238.0,1710.0,Won
+1966.0,13 Jul 1966 - 19:30 ,Group 1,France,1.0,1.0,Mexico,0.0,0.0,238.0,1650.0,Tied
+1966.0,13 Jul 1966 - 19:30 ,Group 3,Portugal,3.0,1.0,Hungary,1.0,0.0,238.0,1675.0,Won
+1966.0,13 Jul 1966 - 19:30 ,Group 2,Argentina,2.0,1.0,Spain,0.0,0.0,238.0,1578.0,Won
+1966.0,13 Jul 1966 - 19:30 ,Group 4,Italy,2.0,0.0,Chile,1.0,0.0,238.0,1608.0,Won
+1966.0,15 Jul 1966 - 19:30 ,Group 1,Uruguay,2.0,1.0,France,2.0,1.0,238.0,1653.0,Won
+1966.0,15 Jul 1966 - 19:30 ,Group 2,Spain,2.0,1.0,Switzerland,0.0,1.0,238.0,1641.0,Won
+1966.0,15 Jul 1966 - 19:30 ,Group 3,Hungary,3.0,1.0,Brazil,1.0,1.0,238.0,1597.0,Won
+1966.0,15 Jul 1966 - 19:30 ,Group 4,Korea DPR,1.0,1.0,Chile,0.0,1.0,238.0,1609.0,Tied
+1966.0,16 Jul 1966 - 15:00 ,Group 3,Portugal,3.0,0.0,Bulgaria,2.0,0.0,238.0,1602.0,Won
+1966.0,16 Jul 1966 - 15:00 ,Group 2,Germany,0.0,0.0,Argentina,0.0,0.0,238.0,1579.0,Tied
+1966.0,16 Jul 1966 - 15:00 ,Group 4,Soviet Union,1.0,0.0,Italy,0.0,0.0,238.0,1682.0,Won
+1966.0,16 Jul 1966 - 19:30 ,Group 1,England,2.0,0.0,Mexico,1.0,0.0,238.0,1634.0,Won
+1966.0,19 Jul 1966 - 16:30 ,Group 1,Uruguay,0.0,0.0,Mexico,0.0,0.0,238.0,1689.0,Tied
+1966.0,19 Jul 1966 - 19:30 ,Group 2,Argentina,2.0,0.0,Switzerland,0.0,0.0,238.0,1582.0,Won
+1966.0,19 Jul 1966 - 19:30 ,Group 3,Portugal,3.0,1.0,Brazil,2.0,0.0,238.0,1598.0,Won
+1966.0,19 Jul 1966 - 19:30 ,Group 4,Korea DPR,1.0,0.0,Italy,1.0,0.0,238.0,1679.0,Won
+1966.0,20 Jul 1966 - 19:30 ,Group 1,England,2.0,0.0,France,1.0,0.0,238.0,1632.0,Won
+1966.0,20 Jul 1966 - 19:30 ,Group 3,Hungary,3.0,1.0,Bulgaria,2.0,1.0,238.0,1599.0,Won
+1966.0,20 Jul 1966 - 19:30 ,Group 2,Germany,2.0,1.0,Spain,1.0,1.0,238.0,1637.0,Won
+1966.0,20 Jul 1966 - 19:30 ,Group 4,Soviet Union,2.0,1.0,Chile,1.0,1.0,238.0,1610.0,Won
+1966.0,23 Jul 1966 - 15:00 ,Quarter-finals,England,1.0,0.0,Argentina,0.0,0.0,239.0,1577.0,Won
+1966.0,23 Jul 1966 - 15:00 ,Quarter-finals,Germany,4.0,0.0,Uruguay,1.0,0.0,239.0,1660.0,Won
+1966.0,23 Jul 1966 - 15:00 ,Quarter-finals,Soviet Union,2.0,1.0,Hungary,1.0,0.0,239.0,1676.0,Won
+1966.0,23 Jul 1966 - 15:00 ,Quarter-finals,Portugal,5.0,3.0,Korea DPR,2.0,3.0,239.0,1702.0,Won
+1966.0,25 Jul 1966 - 19:30 ,Semi-finals,Germany,2.0,1.0,Soviet Union,1.0,0.0,536.0,1659.0,Won
+1966.0,26 Jul 1966 - 19:30 ,Semi-finals,England,2.0,1.0,Portugal,1.0,0.0,536.0,1635.0,Won
+1966.0,28 Jul 1966 - 19:30 ,Match for third place,Portugal,2.0,1.0,Soviet Union,1.0,1.0,3479.0,1709.0,Won
+1966.0,30 Jul 1966 - 15:00 ,Final,England,4.0,2.0,Germany,0.0,0.0,3478.0,1633.0,Won
+1970.0,31 May 1970 - 12:00 ,Group 1,Mexico,0.0,0.0,Soviet Union,0.0,0.0,250.0,1902.0,Tied
+1970.0,02 Jun 1970 - 16:00 ,Group 2,Uruguay,2.0,0.0,Israel,1.0,0.0,250.0,1881.0,Won
+1970.0,02 Jun 1970 - 16:00 ,Group 4,Peru,3.0,2.0,Bulgaria,0.0,1.0,250.0,1780.0,Won
+1970.0,02 Jun 1970 - 16:00 ,Group 3,England,1.0,0.0,Romania,0.0,0.0,250.0,1812.0,Won
+1970.0,03 Jun 1970 - 16:00 ,Group 2,Italy,1.0,0.0,Sweden,1.0,0.0,250.0,1883.0,Won
+1970.0,03 Jun 1970 - 16:00 ,Group 4,Germany,2.0,1.0,Morocco,0.0,1.0,250.0,1839.0,Won
+1970.0,03 Jun 1970 - 16:00 ,Group 3,Brazil,4.0,1.0,Czechoslovakia,1.0,1.0,250.0,1770.0,Won
+1970.0,03 Jun 1970 - 16:00 ,Group 1,Belgium,3.0,0.0,El Salvador,1.0,0.0,250.0,1747.0,Won
+1970.0,06 Jun 1970 - 16:00 ,Group 2,Uruguay,0.0,0.0,Italy,0.0,0.0,250.0,1884.0,Tied
+1970.0,06 Jun 1970 - 16:00 ,Group 4,Peru,3.0,0.0,Morocco,0.0,0.0,250.0,1893.0,Won
+1970.0,06 Jun 1970 - 16:00 ,Group 3,Romania,2.0,1.0,Czechoslovakia,0.0,1.0,250.0,1919.0,Won
+1970.0,06 Jun 1970 - 16:00 ,Group 1,Soviet Union,4.0,1.0,Belgium,1.0,0.0,250.0,1753.0,Won
+1970.0,07 Jun 1970 - 12:00 ,Group 2,Sweden,1.0,1.0,Israel,0.0,0.0,250.0,1880.0,Tied
+1970.0,07 Jun 1970 - 12:00 ,Group 4,Germany,5.0,2.0,Bulgaria,2.0,1.0,250.0,1774.0,Won
+1970.0,07 Jun 1970 - 12:00 ,Group 3,Brazil,1.0,0.0,England,0.0,0.0,250.0,1764.0,Won
+1970.0,07 Jun 1970 - 12:00 ,Group 1,Mexico,4.0,0.0,El Salvador,1.0,0.0,250.0,1820.0,Won
+1970.0,10 Jun 1970 - 16:00 ,Group 2,Sweden,1.0,0.0,Uruguay,0.0,0.0,250.0,1922.0,Won
+1970.0,10 Jun 1970 - 16:00 ,Group 4,Germany,3.0,1.0,Peru,3.0,1.0,250.0,1840.0,Won
+1970.0,10 Jun 1970 - 16:00 ,Group 3,Brazil,3.0,2.0,Romania,2.0,1.0,250.0,1769.0,Won
+1970.0,10 Jun 1970 - 16:00 ,Group 1,Soviet Union,2.0,0.0,El Salvador,0.0,0.0,250.0,1823.0,Won
+1970.0,11 Jun 1970 - 16:00 ,Group 2,Italy,0.0,0.0,Israel,0.0,0.0,250.0,1877.0,Tied
+1970.0,11 Jun 1970 - 16:00 ,Group 4,Bulgaria,1.0,1.0,Morocco,1.0,0.0,250.0,1779.0,Tied
+1970.0,11 Jun 1970 - 16:00 ,Group 3,England,1.0,0.0,Czechoslovakia,0.0,0.0,250.0,1813.0,Won
+1970.0,11 Jun 1970 - 16:00 ,Group 1,Mexico,1.0,0.0,Belgium,1.0,0.0,250.0,1752.0,Won
+1970.0,14 Jun 1970 - 12:00 ,Quarter-finals,Italy,4.0,1.0,Mexico,1.0,1.0,251.0,1882.0,Won
+1970.0,14 Jun 1970 - 12:00 ,Quarter-finals,Germany,3.0,2.0,England,0.0,0.0,251.0,1811.0,Won
+1970.0,14 Jun 1970 - 12:00 ,Quarter-finals,Brazil,4.0,2.0,Peru,2.0,1.0,251.0,1768.0,Won
+1970.0,14 Jun 1970 - 12:00 ,Quarter-finals,Uruguay,1.0,0.0,Soviet Union,0.0,0.0,251.0,1925.0,Won
+1970.0,17 Jun 1970 - 16:00 ,Semi-finals,Brazil,3.0,1.0,Uruguay,1.0,1.0,569.0,1771.0,Won
+1970.0,17 June 1970 - 16:00 ,Semi-finals,Italy,4.0,3.0,Germany,0.0,0.0,569.0,1838.0,Won
+1970.0,20 Jun 1970 - 16:00 ,Match for third place,Germany,1.0,0.0,Uruguay,1.0,0.0,3477.0,1843.0,Won
+1970.0,21 Jun 1970 - 12:00 ,Final,Brazil,4.0,1.0,Italy,1.0,1.0,3476.0,1765.0,Won
+1974.0,13 Jun 1974 - 17:00 ,Group 2,Brazil,0.0,0.0,Yugoslavia,0.0,0.0,262.0,1986.0,Tied
+1974.0,14 Jun 1974 - 16:00 ,Group 1,Germany,1.0,0.0,Chile,1.0,0.0,262.0,2003.0,Won
+1974.0,14 Jun 1974 - 19:30 ,Group 1,Germany,2.0,0.0,Australia,0.0,0.0,262.0,1955.0,Won
+1974.0,14 Jun 1974 - 19:30 ,Group 2,Zaire,0.0,2.0,Scotland,0.0,2.0,262.0,2176.0,Lost
+1974.0,15 Jun 1974 - 16:00 ,Group 3,Uruguay,0.0,2.0,Netherlands,0.0,1.0,262.0,2098.0,Lost
+1974.0,15 Jun 1974 - 16:00 ,Group 3,Sweden,0.0,0.0,Bulgaria,0.0,0.0,262.0,1995.0,Tied
+1974.0,15 Jun 1974 - 18:00 ,Group 4,Italy,3.0,1.0,Haiti,0.0,0.0,262.0,2083.0,Won
+1974.0,15 Jun 1974 - 18:00 ,Group 4,Poland,3.0,2.0,Argentina,2.0,0.0,262.0,1952.0,Won
+1974.0,18 Jun 1974 - 16:00 ,Group 1,Australia,0.0,3.0,Germany,0.0,2.0,262.0,1954.0,Lost
+1974.0,18 Jun 1974 - 19:30 ,Group 2,Scotland,0.0,0.0,Brazil,0.0,0.0,262.0,1985.0,Tied
+1974.0,18 Jun 1974 - 19:30 ,Group 1,Chile,1.0,1.0,Germany,0.0,0.0,262.0,2004.0,Tied
+1974.0,18 Jun 1974 - 19:30 ,Group 2,Yugoslavia,9.0,0.0,Zaire,6.0,0.0,262.0,2186.0,Won
+1974.0,19 Jun 1974 - 19:30 ,Group 3,Netherlands,0.0,0.0,Sweden,0.0,0.0,262.0,2097.0,Tied
+1974.0,19 Jun 1974 - 19:30 ,Group 3,Bulgaria,1.0,1.0,Uruguay,0.0,0.0,262.0,1996.0,Tied
+1974.0,19 Jun 1974 - 19:30 ,Group 4,Haiti,0.0,7.0,Poland,0.0,5.0,262.0,2085.0,Lost
+1974.0,19 Jun 1974 - 19:30 ,Group 4,Argentina,1.0,1.0,Italy,1.0,1.0,262.0,1949.0,Tied
+1974.0,22 Jun 1974 - 16:00 ,Group 2,Scotland,1.0,1.0,Yugoslavia,0.0,0.0,262.0,2175.0,Tied
+1974.0,22 Jun 1974 - 16:00 ,Group 1,Australia,0.0,0.0,Chile,0.0,0.0,262.0,1953.0,Tied
+1974.0,22 Jun 1974 - 16:00 ,Group 2,Zaire,0.0,3.0,Brazil,0.0,1.0,262.0,1987.0,Lost
+1974.0,22 June 1974 - 19:30 ,Group 1,Germany,1.0,0.0,Germany,0.0,0.0,262.0,2062.0,Won
+1974.0,23 Jun 1974 - 16:00 ,Group 3,Bulgaria,1.0,4.0,Netherlands,0.0,2.0,262.0,1990.0,Lost
+1974.0,23 Jun 1974 - 16:00 ,Group 4,Argentina,4.0,1.0,Haiti,2.0,0.0,262.0,1947.0,Won
+1974.0,23 Jun 1974 - 16:00 ,Group 3,Sweden,3.0,0.0,Uruguay,0.0,0.0,262.0,2181.0,Won
+1974.0,23 Jun 1974 - 16:00 ,Group 4,Poland,2.0,1.0,Italy,2.0,0.0,262.0,2129.0,Won
+1974.0,26 Jun 1974 - 16:00 ,Group B,Yugoslavia,0.0,2.0,Germany,0.0,1.0,263.0,2066.0,Lost
+1974.0,26 Jun 1974 - 19:30 ,Group A,Brazil,1.0,0.0,Germany,0.0,0.0,263.0,1982.0,Won
+1974.0,26 Jun 1974 - 19:30 ,Group A,Netherlands,4.0,0.0,Argentina,2.0,0.0,263.0,1948.0,Won
+1974.0,26 Jun 1974 - 19:30 ,Group B,Sweden,0.0,1.0,Poland,0.0,1.0,263.0,2167.0,Lost
+1974.0,30 Jun 1974 - 16:00 ,Group A,Argentina,1.0,2.0,Brazil,1.0,1.0,263.0,1945.0,Lost
+1974.0,30 Jun 1974 - 16:00 ,Group B,Poland,2.0,1.0,Yugoslavia,1.0,1.0,263.0,2170.0,Won
+1974.0,30 Jun 1974 - 16:00 ,Group A,Germany,0.0,2.0,Netherlands,0.0,1.0,263.0,2067.0,Lost
+1974.0,30 Jun 1974 - 19:30 ,Group B,Germany,4.0,2.0,Sweden,0.0,1.0,263.0,2065.0,Won
+1974.0,03 Jul 1974 - 17:00 ,Group B,Poland,0.0,1.0,Germany,0.0,0.0,263.0,2064.0,Lost
+1974.0,03 Jul 1974 - 19:30 ,Group A,Netherlands,2.0,0.0,Brazil,0.0,0.0,263.0,1983.0,Won
+1974.0,03 Jul 1974 - 19:30 ,Group A,Argentina,1.0,1.0,Germany,1.0,1.0,263.0,1946.0,Tied
+1974.0,03 Jul 1974 - 19:30 ,Group B,Sweden,2.0,1.0,Yugoslavia,1.0,1.0,263.0,2182.0,Won
+1974.0,06 Jul 1974 - 16:00 ,Match for third place,Brazil,0.0,1.0,Poland,0.0,0.0,264.0,1984.0,Lost
+1974.0,07 July 1974 - 16:00 ,Final,Netherlands,1.0,2.0,Germany,1.0,2.0,605.0,2063.0,Lost
+1978.0,01 Jun 1978 - 15:00 ,Group 2,Germany,0.0,0.0,Poland,0.0,0.0,278.0,2351.0,Tied
+1978.0,02 Jun 1978 - 13:45 ,Group 1,Italy,2.0,1.0,France,1.0,1.0,278.0,2347.0,Won
+1978.0,02 Jun 1978 - 16:45 ,Group 2,Tunisia,3.0,1.0,Mexico,0.0,1.0,278.0,2433.0,Won
+1978.0,02 Jun 1978 - 19:15 ,Group 1,Argentina,2.0,1.0,Hungary,1.0,1.0,278.0,2199.0,Won
+1978.0,03 Jun 1978 - 13:45 ,Group 3,Sweden,1.0,1.0,Brazil,1.0,1.0,278.0,2253.0,Tied
+1978.0,03 Jun 1978 - 13:45 ,Group 3,Austria,2.0,1.0,Spain,1.0,1.0,278.0,2216.0,Won
+1978.0,03 Jun 1978 - 16:45 ,Group 4,Peru,3.0,1.0,Scotland,1.0,1.0,278.0,2451.0,Won
+1978.0,03 Jun 1978 - 16:45 ,Group 4,Netherlands,3.0,0.0,IR Iran,1.0,0.0,278.0,2388.0,Won
+1978.0,06 Jun 1978 - 13:45 ,Group 1,Italy,3.0,1.0,Hungary,2.0,0.0,278.0,2396.0,Won
+1978.0,06 Jun 1978 - 16:45 ,Group 2,Poland,1.0,0.0,Tunisia,1.0,0.0,278.0,2454.0,Won
+1978.0,06 Jun 1978 - 16:45 ,Group 2,Germany,6.0,0.0,Mexico,4.0,0.0,278.0,2350.0,Won
+1978.0,06 Jun 1978 - 19:15 ,Group 1,Argentina,2.0,1.0,France,1.0,0.0,278.0,2197.0,Won
+1978.0,07 Jun 1978 - 13:45 ,Group 3,Brazil,0.0,0.0,Spain,0.0,0.0,278.0,2246.0,Tied
+1978.0,07 Jun 1978 - 13:45 ,Group 3,Austria,1.0,0.0,Sweden,1.0,0.0,278.0,2224.0,Won
+1978.0,07 Jun 1978 - 16:45 ,Group 4,Scotland,1.0,1.0,IR Iran,1.0,0.0,278.0,2408.0,Tied
+1978.0,07 Jun 1978 - 16:45 ,Group 4,Netherlands,0.0,0.0,Peru,0.0,0.0,278.0,2394.0,Tied
+1978.0,10 Jun 1978 - 15:10 ,Group 1,France,3.0,1.0,Hungary,3.0,1.0,278.0,2344.0,Won
+1978.0,10 Jun 1978 - 16:45 ,Group 2,Poland,3.0,1.0,Mexico,1.0,0.0,278.0,2431.0,Won
+1978.0,10 Jun 1978 - 16:45 ,Group 2,Germany,0.0,0.0,Tunisia,0.0,0.0,278.0,2352.0,Tied
+1978.0,10 Jun 1978 - 19:15 ,Group 1,Italy,1.0,0.0,Argentina,0.0,0.0,278.0,2200.0,Won
+1978.0,11 Jun 1978 - 13:45 ,Group 3,Brazil,1.0,0.0,Austria,1.0,0.0,278.0,2215.0,Won
+1978.0,11 Jun 1978 - 13:45 ,Group 3,Spain,1.0,0.0,Sweden,0.0,0.0,278.0,2337.0,Won
+1978.0,11 Jun 1978 - 16:45 ,Group 4,Peru,4.0,1.0,Iran,3.0,1.0,278.0,2405.0,Won
+1978.0,11 Jun 1978 - 16:45 ,Group 4,Scotland,3.0,2.0,Netherlands,1.0,1.0,278.0,2395.0,Won
+1978.0,14 Jun 1978 - 13:45 ,Group A,Germany,0.0,0.0,Italy,0.0,0.0,279.0,2349.0,Tied
+1978.0,14 Jun 1978 - 13:45 ,Group A,Netherlands,5.0,1.0,Austria,3.0,0.0,279.0,2220.0,Won
+1978.0,14 Jun 1978 - 16:45 ,Group B,Brazil,3.0,0.0,Peru,2.0,0.0,279.0,2251.0,Won
+1978.0,14 Jun 1978 - 19:15 ,Group B,Argentina,2.0,0.0,Poland,1.0,0.0,279.0,2202.0,Won
+1978.0,18 Jun 1978 - 13:45 ,Group B,Poland,1.0,0.0,Peru,0.0,0.0,279.0,2450.0,Won
+1978.0,18 Jun 1978 - 16:45 ,Group A,Italy,1.0,0.0,Austria,1.0,0.0,279.0,2221.0,Won
+1978.0,18 Jun 1978 - 16:45 ,Group A,Germany,2.0,2.0,Netherlands,1.0,1.0,279.0,2348.0,Tied
+1978.0,18 Jun 1978 - 19:15 ,Group B,Argentina,0.0,0.0,Brazil,0.0,0.0,279.0,2196.0,Tied
+1978.0,21 Jun 1978 - 13:45 ,Group A,Netherlands,2.0,1.0,Italy,0.0,1.0,279.0,2391.0,Won
+1978.0,21 Jun 1978 - 13:45 ,Group A,Austria,3.0,2.0,Germany,0.0,1.0,279.0,2217.0,Won
+1978.0,21 Jun 1978 - 16:45 ,Group B,Brazil,3.0,1.0,Poland,1.0,1.0,279.0,2252.0,Won
+1978.0,21 Jun 1978 - 19:15 ,Group B,Argentina,6.0,0.0,Peru,2.0,0.0,279.0,2201.0,Won
+1978.0,24 Jun 1978 - 15:00 ,Match for third place,Brazil,2.0,1.0,Italy,0.0,1.0,280.0,2247.0,Won
+1978.0,25 Jun 1978 - 15:00 ,Final,Argentina,3.0,1.0,Netherlands,0.0,0.0,639.0,2198.0,Won
+1982.0,13 Jun 1982 - 20:00 ,Group 3,Argentina,0.0,1.0,Belgium,0.0,0.0,293.0,749.0,Lost
+1982.0,14 Jun 1982 - 17:15 ,Group 1,Italy,0.0,0.0,Poland,0.0,0.0,293.0,995.0,Tied
+1982.0,14 Jun 1982 - 21:00 ,Group 6,Brazil,2.0,1.0,Soviet Union,0.0,1.0,293.0,791.0,Won
+1982.0,15 Jun 1982 - 17:15 ,Group 1,Peru,0.0,0.0,Cameroon,0.0,0.0,293.0,833.0,Tied
+1982.0,15 Jun 1982 - 21:00 ,Group 3,Hungary,10.0,1.0,El Salvador,3.0,0.0,293.0,896.0,Won
+1982.0,15 Jun 1982 - 21:00 ,Group 6,Scotland,5.0,2.0,New Zealand,3.0,0.0,293.0,1051.0,Won
+1982.0,16 Jun 1982 - 17:15 ,Group 2,Germany,1.0,2.0,Algeria,0.0,0.0,293.0,741.0,Lost
+1982.0,16 Jun 1982 - 17:15 ,Group 4,England,3.0,1.0,France,1.0,1.0,293.0,878.0,Won
+1982.0,16 Jun 1982 - 21:00 ,Group 5,Spain,1.0,1.0,Honduras,0.0,1.0,293.0,901.0,Tied
+1982.0,17 Jun 1982 - 17:15 ,Group 2,Chile,0.0,1.0,Austria,0.0,1.0,293.0,764.0,Lost
+1982.0,17 Jun 1982 - 17:45 ,Group 4,Czechoslovakia,1.0,1.0,Kuwait,1.0,0.0,293.0,1012.0,Tied
+1982.0,17 Jun 1982 - 21:00 ,Group 5,Yugoslavia,0.0,0.0,Northern Ireland,0.0,0.0,293.0,1044.0,Tied
+1982.0,18 Jun 1982 - 17:15 ,Group 1,Italy,1.0,1.0,Peru,1.0,0.0,293.0,994.0,Tied
+1982.0,18 Jun 1982 - 21:00 ,Group 3,Argentina,4.0,1.0,Hungary,2.0,0.0,293.0,752.0,Won
+1982.0,18 Jun 1982 - 21:00 ,Group 6,Brazil,4.0,1.0,Scotland,1.0,1.0,293.0,790.0,Won
+1982.0,19 Jun 1982 - 19:15 ,Group 1,Poland,0.0,0.0,Cameroon,0.0,0.0,293.0,834.0,Tied
+1982.0,19 Jun 1982 - 21:00 ,Group 3,Belgium,1.0,0.0,El Salvador,1.0,0.0,293.0,774.0,Won
+1982.0,19 Jun 1982 - 21:00 ,Group 6,Soviet Union,3.0,0.0,New Zealand,1.0,0.0,293.0,1054.0,Won
+1982.0,20 Jun 1982 - 17:15 ,Group 2,Germany,4.0,1.0,Chile,1.0,0.0,293.0,813.0,Won
+1982.0,20 Jun 1982 - 17:15 ,Group 4,England,2.0,0.0,Czechoslovakia,0.0,0.0,293.0,889.0,Won
+1982.0,20 Jun 1982 - 21:00 ,Group 5,Spain,2.0,1.0,Yugoslavia,1.0,1.0,293.0,903.0,Won
+1982.0,21 Jun 1982 - 17:15 ,Group 2,Algeria,0.0,2.0,Austria,0.0,0.0,293.0,739.0,Lost
+1982.0,21 Jun 1982 - 17:15 ,Group 4,France,4.0,1.0,Kuwait,2.0,0.0,293.0,919.0,Won
+1982.0,21 Jun 1982 - 21:00 ,Group 5,Honduras,1.0,1.0,Northern Ireland,0.0,1.0,293.0,959.0,Tied
+1982.0,22 Jun 1982 - 17:15 ,Group 1,Poland,5.0,1.0,Peru,0.0,0.0,293.0,1055.0,Won
+1982.0,22 Jun 1982 - 21:00 ,Group 3,Belgium,1.0,1.0,Hungary,0.0,1.0,293.0,779.0,Tied
+1982.0,22 Jun 1982 - 21:00 ,Group 6,Soviet Union,2.0,2.0,Scotland,0.0,1.0,293.0,1071.0,Tied
+1982.0,23 Jun 1982 - 17:15 ,Group 1,Italy,1.0,1.0,Cameroon,0.0,0.0,293.0,828.0,Tied
+1982.0,23 Jun 1982 - 21:00 ,Group 3,Argentina,2.0,0.0,El Salvador,1.0,0.0,293.0,751.0,Won
+1982.0,23 Jun 1982 - 21:00 ,Group 6,Brazil,4.0,0.0,New Zealand,2.0,0.0,293.0,789.0,Won
+1982.0,24 Jun 1982 - 17:15 ,Group 2,Algeria,3.0,2.0,Chile,3.0,0.0,293.0,740.0,Won
+1982.0,24 Jun 1982 - 17:15 ,Group 4,France,1.0,1.0,Czechoslovakia,0.0,0.0,293.0,922.0,Tied
+1982.0,24 Jun 1982 - 21:00 ,Group 5,Honduras,0.0,1.0,Yugoslavia,0.0,0.0,293.0,962.0,Lost
+1982.0,25 Jun 1982 - 17:15 ,Group 2,Germany,1.0,0.0,Austria,1.0,0.0,293.0,770.0,Won
+1982.0,25 Jun 1982 - 17:15 ,Group 4,England,1.0,0.0,Kuwait,1.0,0.0,293.0,882.0,Won
+1982.0,25 Jun 1982 - 21:00 ,Group 5,Northern Ireland,1.0,0.0,Spain,0.0,0.0,293.0,902.0,Won
+1982.0,28 Jun 1982 - 17:15 ,Group 4,Austria,0.0,1.0,France,0.0,1.0,294.0,767.0,Lost
+1982.0,28 Jun 1982 - 21:00 ,Group 1,Poland,3.0,0.0,Belgium,2.0,0.0,294.0,782.0,Won
+1982.0,29 Jun 1982 - 17:15 ,Group 3,Italy,2.0,1.0,Argentina,0.0,0.0,294.0,753.0,Won
+1982.0,29 Jun 1982 - 21:00 ,Group 2,Germany,0.0,0.0,England,0.0,0.0,294.0,879.0,Tied
+1982.0,01 Jul 1982 - 17:15 ,Group 4,Austria,2.0,2.0,Northern Ireland,0.0,1.0,294.0,771.0,Tied
+1982.0,01 Jul 1982 - 21:00 ,Group 1,Belgium,0.0,1.0,Soviet Union,0.0,0.0,294.0,783.0,Lost
+1982.0,02 Jul 1982 - 17:15 ,Group 3,Argentina,1.0,3.0,Brazil,0.0,1.0,294.0,750.0,Lost
+1982.0,02 Jul 1982 - 21:00 ,Group 2,Germany,2.0,1.0,Spain,0.0,0.0,294.0,900.0,Won
+1982.0,04 Jul 1982 - 17:15 ,Group 4,France,4.0,1.0,Northern Ireland,1.0,0.0,294.0,920.0,Won
+1982.0,04 Jul 1982 - 21:00 ,Group 1,Poland,0.0,0.0,Soviet Union,0.0,0.0,294.0,1058.0,Tied
+1982.0,05 Jul 1982 - 17:15 ,Group 3,Italy,3.0,2.0,Brazil,2.0,1.0,294.0,788.0,Won
+1982.0,05 Jul 1982 - 21:00 ,Group 2,Spain,0.0,0.0,England,0.0,0.0,294.0,877.0,Tied
+1982.0,08 Jul 1982 - 17:15 ,Semi-finals,Poland,0.0,2.0,Italy,0.0,1.0,295.0,996.0,Lost
+1982.0,08 Jul 1982 - 21:00 ,Semi-finals,Germany,3.0,3.0,France,0.0,0.0,295.0,914.0,Tied
+1982.0,10 Jul 1982 - 20:00 ,Match for third place,Poland,3.0,2.0,France,2.0,1.0,676.0,921.0,Won
+1982.0,11 Jul 1982 - 20:00 ,Final,Italy,3.0,1.0,Germany,0.0,0.0,3475.0,923.0,Won
+1986.0,31 May 1986 - 12:00 ,Group A,Bulgaria,1.0,1.0,Italy,0.0,1.0,308.0,459.0,Tied
+1986.0,01 Jun 1986 - 16:00 ,Group C,Canada,0.0,1.0,France,0.0,0.0,308.0,468.0,Lost
+1986.0,01 Jun 1986 - 12:00 ,Group D,Spain,0.0,1.0,Brazil,0.0,0.0,308.0,439.0,Lost
+1986.0,02 Jun 1986 - 12:00 ,Group C,Soviet Union,6.0,0.0,Hungary,3.0,0.0,308.0,610.0,Won
+1986.0,02 Jun 1986 - 12:00 ,Group A,Argentina,3.0,1.0,Korea Republic,2.0,0.0,308.0,395.0,Won
+1986.0,02 Jun 1986 - 16:00 ,Group F,Morocco,0.0,0.0,Poland,0.0,0.0,308.0,674.0,Tied
+1986.0,03 Jun 1986 - 12:00 ,Group D,Algeria,1.0,1.0,Northern Ireland,0.0,1.0,308.0,379.0,Tied
+1986.0,03 Jun 1986 - 12:00 ,Group B,Belgium,1.0,2.0,Mexico,1.0,2.0,308.0,428.0,Lost
+1986.0,03 Jun 1986 - 16:00 ,Group F,Portugal,1.0,0.0,England,0.0,0.0,308.0,538.0,Won
+1986.0,04 Jun 1986 - 12:00 ,Group B,Paraguay,1.0,0.0,Iraq,1.0,0.0,308.0,628.0,Won
+1986.0,04 Jun 1986 - 16:00 ,Group E,Scotland,0.0,1.0,Denmark,0.0,0.0,308.0,517.0,Lost
+1986.0,04 Jun 1986 - 12:00 ,Group E,Uruguay,1.0,1.0,Germany,1.0,0.0,308.0,585.0,Tied
+1986.0,05 Jun 1986 - 12:00 ,Group A,Italy,1.0,1.0,Argentina,1.0,1.0,308.0,394.0,Tied
+1986.0,05 Jun 1986 - 12:00 ,Group C,France,1.0,1.0,Soviet Union,0.0,0.0,308.0,571.0,Tied
+1986.0,05 Jun 1986 - 16:00 ,Group A,Korea Republic,1.0,1.0,Bulgaria,0.0,1.0,308.0,460.0,Tied
+1986.0,06 Jun 1986 - 12:00 ,Group C,Hungary,2.0,0.0,Canada,1.0,0.0,308.0,475.0,Won
+1986.0,06 Jun 1986 - 12:00 ,Group D,Brazil,1.0,0.0,Algeria,0.0,0.0,308.0,377.0,Won
+1986.0,06 Jun 1986 - 16:00 ,Group F,England,0.0,0.0,Morocco,0.0,0.0,308.0,533.0,Tied
+1986.0,07 Jun 1986 - 12:00 ,Group D,Northern Ireland,1.0,2.0,Spain,0.0,2.0,308.0,551.0,Lost
+1986.0,07 Jun 1986 - 12:00 ,Group B,Mexico,1.0,1.0,Paraguay,1.0,0.0,308.0,680.0,Tied
+1986.0,07 Jun 1986 - 16:00 ,Group F,Poland,1.0,0.0,Portugal,0.0,0.0,308.0,701.0,Won
+1986.0,08 Jun 1986 - 12:00 ,Group B,Iraq,1.0,2.0,Belgium,0.0,2.0,308.0,427.0,Lost
+1986.0,08 Jun 1986 - 16:00 ,Group E,Denmark,6.0,1.0,Uruguay,2.0,1.0,308.0,522.0,Won
+1986.0,08 Jun 1986 - 12:00 ,Group E,Germany,2.0,1.0,Scotland,1.0,1.0,308.0,580.0,Won
+1986.0,09 Jun 1986 - 12:00 ,Group C,Hungary,0.0,3.0,France,0.0,1.0,308.0,567.0,Lost
+1986.0,09 Jun 1986 - 12:00 ,Group C,Soviet Union,2.0,0.0,Canada,0.0,0.0,308.0,476.0,Won
+1986.0,10 Jun 1986 - 12:00 ,Group A,Korea Republic,2.0,3.0,Italy,0.0,1.0,308.0,643.0,Lost
+1986.0,10 Jun 1986 - 12:00 ,Group A,Argentina,2.0,0.0,Bulgaria,1.0,0.0,308.0,389.0,Won
+1986.0,11 Jun 1986 - 12:00 ,Group B,Paraguay,2.0,2.0,Belgium,0.0,1.0,308.0,429.0,Tied
+1986.0,11 Jun 1986 - 12:00 ,Group B,Iraq,0.0,1.0,Mexico,0.0,0.0,308.0,627.0,Lost
+1986.0,11 Jun 1986 - 16:00 ,Group F,Portugal,1.0,3.0,Morocco,0.0,2.0,308.0,675.0,Lost
+1986.0,11 Jun 1986 - 16:00 ,Group F,England,3.0,0.0,Poland,3.0,0.0,308.0,537.0,Won
+1986.0,12 Jun 1986 - 12:00 ,Group D,Northern Ireland,0.0,3.0,Brazil,0.0,2.0,308.0,441.0,Lost
+1986.0,12 Jun 1986 - 12:00 ,Group D,Algeria,0.0,3.0,Spain,0.0,1.0,308.0,378.0,Lost
+1986.0,13 Jun 1986 - 12:00 ,Group E,Scotland,0.0,0.0,Uruguay,0.0,0.0,308.0,712.0,Tied
+1986.0,13 Jun 1986 - 12:00 ,Group E,Denmark,2.0,0.0,Germany,1.0,0.0,308.0,512.0,Won
+1986.0,15 Jun 1986 - 16:00 ,Round of 16,Soviet Union,3.0,4.0,Belgium,0.0,0.0,309.0,432.0,Lost
+1986.0,15 Jun 1986 - 12:00 ,Round of 16,Mexico,2.0,0.0,Bulgaria,1.0,0.0,309.0,463.0,Won
+1986.0,16 Jun 1986 - 16:00 ,Round of 16,Argentina,1.0,0.0,Uruguay,1.0,0.0,309.0,398.0,Won
+1986.0,16 Jun 1986 - 12:00 ,Round of 16,Brazil,4.0,0.0,Poland,1.0,0.0,309.0,444.0,Won
+1986.0,17 Jun 1986 - 12:00 ,Round of 16,Italy,0.0,2.0,France,0.0,1.0,309.0,568.0,Lost
+1986.0,17 Jun 1986 - 16:00 ,Round of 16,Morocco,0.0,1.0,Germany,0.0,0.0,309.0,574.0,Lost
+1986.0,18 Jun 1986 - 12:00 ,Round of 16,England,3.0,0.0,Paraguay,1.0,0.0,309.0,536.0,Won
+1986.0,18 Jun 1986 - 16:00 ,Round of 16,Denmark,1.0,5.0,Spain,1.0,1.0,309.0,511.0,Lost
+1986.0,21 Jun 1986 - 12:00 ,Quarter-finals,Brazil,1.0,1.0,France,0.0,0.0,714.0,440.0,Tied
+1986.0,21 Jun 1986 - 16:00 ,Quarter-finals,Germany,0.0,0.0,Mexico,0.0,0.0,714.0,575.0,Tied
+1986.0,22 Jun 1986 - 16:00 ,Quarter-finals,Spain,1.0,1.0,Belgium,0.0,0.0,714.0,421.0,Tied
+1986.0,22 Jun 1986 - 12:00 ,Quarter-finals,Argentina,2.0,1.0,England,0.0,0.0,714.0,392.0,Won
+1986.0,25 Jun 1986 - 12:00 ,Semi-finals,France,0.0,2.0,Germany,0.0,1.0,3469.0,564.0,Lost
+1986.0,25 Jun 1986 - 16:00 ,Semi-finals,Argentina,2.0,0.0,Belgium,0.0,0.0,3469.0,388.0,Won
+1986.0,28 Jun 1986 - 12:00 ,Match for third place,France,4.0,2.0,Belgium,0.0,0.0,3468.0,422.0,Won
+1986.0,29 Jun 1986 - 12:00 ,Final,Argentina,3.0,2.0,Germany,1.0,0.0,3467.0,393.0,Won
+1990.0,08 Jun 1990 - 18:00 ,Group B,Argentina,0.0,1.0,Cameroon,0.0,0.0,322.0,26.0,Lost
+1990.0,09 Jun 1990 - 17:00 ,Group B,Soviet Union,0.0,2.0,Romania,0.0,1.0,322.0,342.0,Lost
+1990.0,09 Jun 1990 - 17:00 ,Group D,"rn"">United Arab Emirates",0.0,2.0,Colombia,0.0,0.0,322.0,119.0,Lost
+1990.0,09 Jun 1990 - 21:00 ,Group A,Italy,1.0,0.0,Austria,0.0,0.0,322.0,42.0,Won
+1990.0,10 Jun 1990 - 17:00 ,Group A,USA,1.0,5.0,Czechoslovakia,0.0,2.0,322.0,355.0,Lost
+1990.0,10 Jun 1990 - 21:00 ,Group C,Brazil,2.0,1.0,Sweden,1.0,0.0,322.0,75.0,Won
+1990.0,10 Jun 1990 - 21:00 ,Group D,Germany,4.0,1.0,Yugoslavia,2.0,0.0,322.0,201.0,Won
+1990.0,11 Jun 1990 - 17:00 ,Group C,Costa Rica,1.0,0.0,Scotland,0.0,0.0,322.0,127.0,Won
+1990.0,11 Jun 1990 - 21:00 ,Group F,England,1.0,1.0,"rn"">Republic of Ireland",1.0,0.0,322.0,161.0,Tied
+1990.0,12 Jun 1990 - 17:00 ,Group E,Belgium,2.0,0.0,Korea Republic,0.0,0.0,322.0,57.0,Won
+1990.0,12 Jun 1990 - 21:00 ,Group F,Netherlands,1.0,1.0,Egypt,0.0,0.0,322.0,151.0,Tied
+1990.0,13 Jun 1990 - 17:00 ,Group E,Uruguay,0.0,0.0,Spain,0.0,0.0,322.0,180.0,Tied
+1990.0,13 Jun 1990 - 21:00 ,Group B,Argentina,2.0,0.0,Soviet Union,1.0,0.0,322.0,30.0,Won
+1990.0,14 Jun 1990 - 17:00 ,Group B,Cameroon,2.0,1.0,Romania,0.0,0.0,322.0,108.0,Won
+1990.0,14 Jun 1990 - 17:00 ,Group D,Yugoslavia,1.0,0.0,Colombia,0.0,0.0,322.0,120.0,Won
+1990.0,14 Jun 1990 - 21:00 ,Group A,Italy,1.0,0.0,USA,1.0,0.0,322.0,265.0,Won
+1990.0,15 Jun 1990 - 17:00 ,Group A,Austria,0.0,1.0,Czechoslovakia,0.0,1.0,322.0,43.0,Lost
+1990.0,15 Jun 1990 - 21:00 ,Group D,Germany,5.0,1.0,"rn"">United Arab Emirates",2.0,0.0,322.0,198.0,Won
+1990.0,16 Jun 1990 - 17:00 ,Group C,Brazil,1.0,0.0,Costa Rica,1.0,0.0,322.0,73.0,Won
+1990.0,16 Jun 1990 - 21:00 ,Group C,Sweden,1.0,2.0,Scotland,0.0,1.0,322.0,348.0,Lost
+1990.0,16 Jun 1990 - 21:00 ,Group F,England,0.0,0.0,Netherlands,0.0,0.0,322.0,160.0,Tied
+1990.0,17 Jun 1990 - 17:00 ,Group F,"rn"">Republic of Ireland",0.0,0.0,Egypt,0.0,0.0,322.0,152.0,Tied
+1990.0,17 Jun 1990 - 21:00 ,Group E,Korea Republic,1.0,3.0,Spain,1.0,1.0,322.0,175.0,Lost
+1990.0,17 Jun 1990 - 21:00 ,Group E,Belgium,3.0,1.0,Uruguay,2.0,0.0,322.0,66.0,Won
+1990.0,18 Jun 1990 - 21:00 ,Group B,Argentina,1.0,1.0,Romania,0.0,0.0,322.0,29.0,Tied
+1990.0,18 Jun 1990 - 21:00 ,Group B,Cameroon,0.0,4.0,Soviet Union,0.0,2.0,322.0,111.0,Lost
+1990.0,19 Jun 1990 - 17:00 ,Group D,Germany,1.0,1.0,Colombia,0.0,0.0,322.0,114.0,Tied
+1990.0,19 Jun 1990 - 17:00 ,Group D,Yugoslavia,4.0,1.0,"rn"">United Arab Emirates",2.0,1.0,322.0,364.0,Won
+1990.0,19 Jun 1990 - 21:00 ,Group A,Italy,2.0,0.0,Czechoslovakia,1.0,0.0,322.0,263.0,Won
+1990.0,19 Jun 1990 - 21:00 ,Group A,Austria,2.0,1.0,USA,0.0,0.0,322.0,48.0,Won
+1990.0,20 Jun 1990 - 21:00 ,Group C,Brazil,1.0,0.0,Scotland,0.0,0.0,322.0,74.0,Won
+1990.0,20 Jun 1990 - 21:00 ,Group C,Sweden,1.0,2.0,Costa Rica,1.0,0.0,322.0,128.0,Lost
+1990.0,21 Jun 1990 - 17:00 ,Group E,Korea Republic,0.0,1.0,Uruguay,0.0,0.0,322.0,290.0,Lost
+1990.0,21 Jun 1990 - 17:00 ,Group E,Belgium,1.0,2.0,Spain,1.0,2.0,322.0,56.0,Lost
+1990.0,21 Jun 1990 - 21:00 ,Group F,"rn"">Republic of Ireland",1.0,1.0,Netherlands,0.0,1.0,322.0,228.0,Tied
+1990.0,21 Jun 1990 - 21:00 ,Group F,England,1.0,0.0,Egypt,0.0,0.0,322.0,150.0,Won
+1990.0,23 Jun 1990 - 17:00 ,Round of 16,Cameroon,2.0,1.0,Colombia,0.0,0.0,323.0,102.0,Won
+1990.0,23 Jun 1990 - 21:00 ,Round of 16,Czechoslovakia,4.0,1.0,Costa Rica,1.0,0.0,323.0,129.0,Won
+1990.0,24 Jun 1990 - 17:00 ,Round of 16,Brazil,0.0,1.0,Argentina,0.0,0.0,323.0,25.0,Lost
+1990.0,24 Jun 1990 - 21:00 ,Round of 16,Germany,2.0,1.0,Netherlands,0.0,0.0,323.0,196.0,Won
+1990.0,25 Jun 1990 - 17:00 ,Round of 16,"rn"">Republic of Ireland",0.0,0.0,Romania,0.0,0.0,323.0,248.0,Tied
+1990.0,25 Jun 1990 - 21:00 ,Round of 16,Italy,2.0,0.0,Uruguay,0.0,0.0,323.0,264.0,Won
+1990.0,26 Jun 1990 - 17:00 ,Round of 16,Spain,1.0,2.0,Yugoslavia,0.0,0.0,323.0,181.0,Lost
+1990.0,26 Jun 1990 - 21:00 ,Round of 16,England,1.0,0.0,Belgium,0.0,0.0,323.0,55.0,Won
+1990.0,30 Jun 1990 - 17:00 ,Quarter-finals,Yugoslavia,0.0,0.0,Argentina,0.0,0.0,751.0,31.0,Tied
+1990.0,30 Jun 1990 - 21:00 ,Quarter-finals,Italy,1.0,0.0,"rn"">Republic of Ireland",1.0,0.0,751.0,243.0,Won
+1990.0,01 Jul 1990 - 17:00 ,Quarter-finals,Germany,1.0,0.0,Czechoslovakia,1.0,0.0,751.0,197.0,Won
+1990.0,01 Jul 1990 - 21:00 ,Quarter-finals,England,3.0,2.0,Cameroon,0.0,0.0,751.0,103.0,Won
+1990.0,03 Jul 1990 - 20:00 ,Semi-finals,Italy,1.0,1.0,Argentina,0.0,0.0,3464.0,28.0,Tied
+1990.0,04 Jul 1990 - 20:00 ,Semi-finals,Germany,1.0,1.0,England,0.0,0.0,3464.0,159.0,Tied
+1990.0,07 Jul 1990 - 20:00 ,Match for third place,Italy,2.0,1.0,England,0.0,0.0,3463.0,162.0,Won
+1990.0,08 Jul 1990 - 20:00 ,Final,Germany,1.0,0.0,Argentina,0.0,0.0,3462.0,27.0,Won
+1994.0,17 Jun 1994 - 19:30 ,Group C,Spain,2.0,2.0,Korea Republic,0.0,0.0,337.0,3050.0,Tied
+1994.0,17 Jun 1994 - 15:00 ,Group C,Germany,1.0,0.0,Bolivia,0.0,0.0,337.0,3049.0,Won
+1994.0,18 Jun 1994 - 11:30 ,Group A,USA,1.0,1.0,Switzerland,1.0,1.0,337.0,3051.0,Tied
+1994.0,18 Jun 1994 - 16:00 ,Group E,Italy,0.0,1.0,"rn"">Republic of Ireland",0.0,1.0,337.0,3052.0,Lost
+1994.0,18 Jun 1994 - 19:30 ,Group A,Colombia,1.0,3.0,Romania,1.0,2.0,337.0,3053.0,Lost
+1994.0,19 Jun 1994 - 12:30 ,Group F,Belgium,1.0,0.0,Morocco,1.0,0.0,337.0,3054.0,Won
+1994.0,19 Jun 1994 - 16:00 ,Group E,Norway,1.0,0.0,Mexico,0.0,0.0,337.0,3055.0,Won
+1994.0,19 Jun 1994 - 19:30 ,Group B,Cameroon,2.0,2.0,Sweden,1.0,1.0,337.0,3056.0,Tied
+1994.0,20 Jun 1994 - 19:30 ,Group F,Netherlands,2.0,1.0,Saudi Arabia,0.0,1.0,337.0,3058.0,Won
+1994.0,20 Jun 1994 - 16:00 ,Group B,Brazil,2.0,0.0,Russia,1.0,0.0,337.0,3057.0,Won
+1994.0,21 Jun 1994 - 12:30 ,Group D,Argentina,4.0,0.0,Greece,2.0,0.0,337.0,3059.0,Won
+1994.0,21 Jun 1994 - 19:30 ,Group D,Nigeria,3.0,0.0,Bulgaria,2.0,0.0,337.0,3061.0,Won
+1994.0,21 Jun 1994 - 16:00 ,Group C,Germany,1.0,1.0,Spain,0.0,1.0,337.0,3060.0,Tied
+1994.0,22 Jun 1994 - 16:00 ,Group A,Romania,1.0,4.0,Switzerland,1.0,1.0,337.0,3062.0,Lost
+1994.0,22 Jun 1994 - 19:30 ,Group A,USA,2.0,1.0,Colombia,1.0,0.0,337.0,3063.0,Won
+1994.0,23 Jun 1994 - 16:00 ,Group E,Italy,1.0,0.0,Norway,0.0,0.0,337.0,3064.0,Won
+1994.0,23 Jun 1994 - 19:30 ,Group C,Korea Republic,0.0,0.0,Bolivia,0.0,0.0,337.0,3065.0,Tied
+1994.0,24 Jun 1994 - 12:30 ,Group E,Mexico,2.0,1.0,"rn"">Republic of Ireland",1.0,0.0,337.0,3066.0,Won
+1994.0,24 Jun 1994 - 19:30 ,Group B,Sweden,3.0,1.0,Russia,1.0,1.0,337.0,3068.0,Won
+1994.0,24 Jun 1994 - 16:00 ,Group B,Brazil,3.0,0.0,Cameroon,1.0,0.0,337.0,3067.0,Won
+1994.0,25 Jun 1994 - 12:30 ,Group F,Belgium,1.0,0.0,Netherlands,0.0,0.0,337.0,3069.0,Won
+1994.0,25 Jun 1994 - 12:30 ,Group F,Saudi Arabia,2.0,1.0,Morocco,2.0,1.0,337.0,3070.0,Won
+1994.0,25 Jun 1994 - 16:00 ,Group D,Argentina,2.0,1.0,Nigeria,2.0,1.0,337.0,3071.0,Won
+1994.0,26 Jun 1994 - 12:30 ,Group D,Bulgaria,4.0,0.0,Greece,1.0,0.0,337.0,3072.0,Won
+1994.0,26 Jun 1994 - 16:00 ,Group A,USA,0.0,1.0,Romania,0.0,1.0,337.0,3073.0,Lost
+1994.0,26 Jun 1994 - 16:00 ,Group A,Switzerland,0.0,2.0,Colombia,0.0,1.0,337.0,3074.0,Lost
+1994.0,27 Jun 1994 - 16:00 ,Group C,Germany,3.0,2.0,Korea Republic,3.0,0.0,337.0,3076.0,Won
+1994.0,27 Jun 1994 - 16:00 ,Group C,Bolivia,1.0,3.0,Spain,0.0,1.0,337.0,3075.0,Lost
+1994.0,28 Jun 1994 - 12:30 ,Group E,"rn"">Republic of Ireland",0.0,0.0,Norway,0.0,0.0,337.0,3077.0,Tied
+1994.0,28 Jun 1994 - 16:00 ,Group B,Brazil,1.0,1.0,Sweden,0.0,1.0,337.0,3080.0,Tied
+1994.0,28 Jun 1994 - 12:30 ,Group E,Italy,1.0,1.0,Mexico,0.0,0.0,337.0,3078.0,Tied
+1994.0,28 Jun 1994 - 16:00 ,Group B,Russia,6.0,1.0,Cameroon,3.0,0.0,337.0,3079.0,Won
+1994.0,29 Jun 1994 - 12:30 ,Group F,Morocco,1.0,2.0,Netherlands,0.0,1.0,337.0,3081.0,Lost
+1994.0,29 Jun 1994 - 12:30 ,Group F,Belgium,0.0,1.0,Saudi Arabia,0.0,1.0,337.0,3082.0,Lost
+1994.0,30 Jun 1994 - 19:30 ,Group D,Greece,0.0,2.0,Nigeria,0.0,1.0,337.0,3083.0,Lost
+1994.0,30 Jun 1994 - 19:30 ,Group D,Argentina,0.0,2.0,Bulgaria,0.0,0.0,337.0,3084.0,Lost
+1994.0,02 Jul 1994 - 12:00 ,Round of 16,Germany,3.0,2.0,Belgium,3.0,1.0,338.0,3085.0,Won
+1994.0,02 Jul 1994 - 16:30 ,Round of 16,Spain,3.0,0.0,Switzerland,1.0,0.0,338.0,3086.0,Won
+1994.0,03 Jul 1994 - 12:00 ,Round of 16,Saudi Arabia,1.0,3.0,Sweden,0.0,1.0,338.0,3087.0,Lost
+1994.0,03 Jul 1994 - 13:30 ,Round of 16,Romania,3.0,2.0,Argentina,2.0,1.0,338.0,3088.0,Won
+1994.0,04 Jul 1994 - 12:00 ,Round of 16,Netherlands,2.0,0.0,"rn"">Republic of Ireland",2.0,0.0,338.0,3089.0,Won
+1994.0,04 Jul 1994 - 12:30 ,Round of 16,Brazil,1.0,0.0,USA,0.0,0.0,338.0,3090.0,Won
+1994.0,05 Jul 1994 - 13:00 ,Round of 16,Nigeria,1.0,2.0,Italy,0.0,0.0,338.0,3091.0,Lost
+1994.0,05 Jul 1994 - 16:30 ,Round of 16,Mexico,1.0,1.0,Bulgaria,0.0,0.0,338.0,3092.0,Tied
+1994.0,09 Jul 1994 - 12:00 ,Quarter-finals,Italy,2.0,1.0,Spain,1.0,0.0,796.0,3097.0,Won
+1994.0,09 Jul 1994 - 14:30 ,Quarter-finals,Netherlands,2.0,3.0,Brazil,0.0,0.0,796.0,3098.0,Lost
+1994.0,10 Jul 1994 - 12:00 ,Quarter-finals,Bulgaria,2.0,1.0,Germany,0.0,0.0,796.0,3096.0,Won
+1994.0,10 Jul 1994 - 12:30 ,Quarter-finals,Romania,2.0,2.0,Sweden,0.0,0.0,796.0,3095.0,Tied
+1994.0,13 Jul 1994 - 16:00 ,Semi-finals,Bulgaria,1.0,2.0,Italy,1.0,2.0,3461.0,3100.0,Lost
+1994.0,13 Jul 1994 - 16:30 ,Semi-finals,Sweden,0.0,1.0,Brazil,0.0,0.0,3461.0,3099.0,Lost
+1994.0,16 Jul 1994 - 12:30 ,Match for third place,Sweden,4.0,0.0,Bulgaria,4.0,0.0,3460.0,3103.0,Won
+1994.0,17 Jul 1994 - 12:30 ,Final,Brazil,0.0,0.0,Italy,0.0,0.0,3459.0,3104.0,Tied
+1998.0,10 Jun 1998 - 17:30 ,Group A,Brazil,2.0,1.0,Scotland,1.0,1.0,1014.0,4000.0,Won
+1998.0,10 Jun 1998 - 21:00 ,Group A,Morocco,2.0,2.0,Norway,1.0,1.0,1014.0,8725.0,Tied
+1998.0,11 Jun 1998 - 17:30 ,Group B,Italy,2.0,2.0,Chile,1.0,1.0,1014.0,8726.0,Tied
+1998.0,11 Jun 1998 - 21:00 ,Group B,Cameroon,1.0,1.0,Austria,0.0,0.0,1014.0,8727.0,Tied
+1998.0,12 Jun 1998 - 14:30 ,Group D,Paraguay,0.0,0.0,Bulgaria,0.0,0.0,1014.0,8728.0,Tied
+1998.0,12 Jun 1998 - 17:30 ,Group C,Saudi Arabia,0.0,1.0,Denmark,0.0,0.0,1014.0,8729.0,Lost
+1998.0,12 Jun 1998 - 21:00 ,Group C,France,3.0,0.0,South Africa,1.0,0.0,1014.0,8730.0,Won
+1998.0,13 Jun 1998 - 14:30 ,Group D,Spain,2.0,3.0,Nigeria,1.0,1.0,1014.0,8731.0,Lost
+1998.0,13 Jun 1998 - 17:30 ,Group E,Korea Republic,1.0,3.0,Mexico,1.0,0.0,1014.0,8732.0,Lost
+1998.0,13 Jun 1998 - 21:00 ,Group E,Netherlands,0.0,0.0,Belgium,0.0,0.0,1014.0,8733.0,Tied
+1998.0,14 Jun 1998 - 14:30 ,Group H,Argentina,1.0,0.0,Japan,1.0,0.0,1014.0,8734.0,Won
+1998.0,14 Jun 1998 - 17:30 ,Group F,Yugoslavia,1.0,0.0,Iran,0.0,0.0,1014.0,8735.0,Won
+1998.0,14 Jun 1998 - 21:00 ,Group H,Jamaica,1.0,3.0,Croatia,1.0,1.0,1014.0,8736.0,Lost
+1998.0,15 Jun 1998 - 14:30 ,Group G,England,2.0,0.0,Tunisia,1.0,0.0,1014.0,8740.0,Won
+1998.0,15 Jun 1998 - 17:30 ,Group G,Romania,1.0,0.0,Colombia,1.0,0.0,1014.0,8739.0,Won
+1998.0,15 Jun 1998 - 21:00 ,Group F,Germany,2.0,0.0,USA,1.0,0.0,1014.0,8738.0,Won
+1998.0,16 Jun 1998 - 17:30 ,Group A,Scotland,1.0,1.0,Norway,0.0,0.0,1014.0,8741.0,Tied
+1998.0,16 Jun 1998 - 21:00 ,Group A,Brazil,3.0,0.0,Morocco,2.0,0.0,1014.0,8742.0,Won
+1998.0,17 Jun 1998 - 17:30 ,Group B,Chile,1.0,1.0,Austria,0.0,0.0,1014.0,8743.0,Tied
+1998.0,17 Jun 1998 - 21:00 ,Group B,Italy,3.0,0.0,Cameroon,1.0,0.0,1014.0,8744.0,Won
+1998.0,18 Jun 1998 - 17:30 ,Group C,South Africa,1.0,1.0,Denmark,0.0,1.0,1014.0,8746.0,Tied
+1998.0,18 Jun 1998 - 21:00 ,Group C,France,4.0,0.0,Saudi Arabia,1.0,0.0,1014.0,8745.0,Won
+1998.0,19 Jun 1998 - 17:30 ,Group D,Nigeria,1.0,0.0,Bulgaria,1.0,0.0,1014.0,8747.0,Won
+1998.0,19 Jun 1998 - 21:00 ,Group D,Spain,0.0,0.0,Paraguay,0.0,0.0,1014.0,8748.0,Tied
+1998.0,20 Jun 1998 - 14:30 ,Group H,Japan,0.0,1.0,Croatia,0.0,0.0,1014.0,8751.0,Lost
+1998.0,20 Jun 1998 - 17:30 ,Group E,Belgium,2.0,2.0,Mexico,1.0,0.0,1014.0,8750.0,Tied
+1998.0,20 Jun 1998 - 21:00 ,Group E,Netherlands,5.0,0.0,Korea Republic,2.0,0.0,1014.0,8749.0,Won
+1998.0,21 Jun 1998 - 14:30 ,Group F,Germany,2.0,2.0,Yugoslavia,0.0,1.0,1014.0,8753.0,Tied
+1998.0,21 Jun 1998 - 17:30 ,Group H,Argentina,5.0,0.0,Jamaica,1.0,0.0,1014.0,8752.0,Won
+1998.0,21 Jun 1998 - 21:00 ,Group F,USA,1.0,2.0,Iran,0.0,1.0,1014.0,8754.0,Lost
+1998.0,22 Jun 1998 - 17:30 ,Group G,Colombia,1.0,0.0,Tunisia,0.0,0.0,1014.0,8755.0,Won
+1998.0,22 Jun 1998 - 21:00 ,Group G,Romania,2.0,1.0,England,0.0,0.0,1014.0,8756.0,Won
+1998.0,23 Jun 1998 - 16:00 ,Group B,Italy,2.0,1.0,Austria,0.0,0.0,1014.0,8757.0,Won
+1998.0,23 Jun 1998 - 16:00 ,Group B,Chile,1.0,1.0,Cameroon,1.0,0.0,1014.0,8760.0,Tied
+1998.0,23 Jun 1998 - 21:00 ,Group A,Scotland,0.0,3.0,Morocco,0.0,1.0,1014.0,8758.0,Lost
+1998.0,23 Jun 1998 - 21:00 ,Group A,Brazil,1.0,2.0,Norway,0.0,0.0,1014.0,8759.0,Lost
+1998.0,24 Jun 1998 - 16:00 ,Group C,France,2.0,1.0,Denmark,1.0,1.0,1014.0,8762.0,Won
+1998.0,24 Jun 1998 - 16:00 ,Group C,South Africa,2.0,2.0,Saudi Arabia,1.0,1.0,1014.0,8764.0,Tied
+1998.0,24 Jun 1998 - 21:00 ,Group D,Spain,6.0,1.0,Bulgaria,2.0,0.0,1014.0,8761.0,Won
+1998.0,24 Jun 1998 - 21:00 ,Group D,Nigeria,1.0,3.0,Paraguay,1.0,1.0,1014.0,8763.0,Lost
+1998.0,25 Jun 1998 - 16:00 ,Group E,Belgium,1.0,1.0,Korea Republic,1.0,0.0,1014.0,8765.0,Tied
+1998.0,25 Jun 1998 - 16:00 ,Group E,Netherlands,2.0,2.0,Mexico,2.0,0.0,1014.0,8766.0,Tied
+1998.0,25 Jun 1998 - 21:00 ,Group F,Germany,2.0,0.0,Iran,0.0,0.0,1014.0,8767.0,Won
+1998.0,25 Jun 1998 - 21:00 ,Group F,USA,0.0,1.0,Yugoslavia,0.0,1.0,1014.0,8768.0,Lost
+1998.0,26 Jun 1998 - 16:00 ,Group H,Japan,1.0,2.0,Jamaica,0.0,1.0,1014.0,8771.0,Lost
+1998.0,26 Jun 1998 - 16:00 ,Group H,Argentina,1.0,0.0,Croatia,1.0,0.0,1014.0,8772.0,Won
+1998.0,26 Jun 1998 - 21:00 ,Group G,Romania,1.0,1.0,Tunisia,0.0,1.0,1014.0,8769.0,Tied
+1998.0,26 Jun 1998 - 21:00 ,Group G,Colombia,0.0,2.0,England,0.0,2.0,1014.0,8770.0,Lost
+1998.0,27 Jun 1998 - 16:30 ,Round of 16,Italy,1.0,0.0,Norway,1.0,0.0,1024.0,8774.0,Won
+1998.0,27 Jun 1998 - 21:00 ,Round of 16,Brazil,4.0,1.0,Chile,3.0,0.0,1024.0,8773.0,Won
+1998.0,28 Jun 1998 - 16:30 ,Round of 16,France,1.0,0.0,Paraguay,0.0,0.0,1024.0,8776.0,Won
+1998.0,28 Jun 1998 - 21:00 ,Round of 16,Nigeria,1.0,4.0,Denmark,0.0,2.0,1024.0,8775.0,Lost
+1998.0,29 Jun 1998 - 16:30 ,Round of 16,Germany,2.0,1.0,Mexico,0.0,0.0,1024.0,8777.0,Won
+1998.0,29 Jun 1998 - 21:00 ,Round of 16,Netherlands,2.0,1.0,Yugoslavia,1.0,0.0,1024.0,8778.0,Won
+1998.0,30 Jun 1998 - 16:30 ,Round of 16,Romania,0.0,1.0,Croatia,0.0,1.0,1024.0,8780.0,Lost
+1998.0,30 Jun 1998 - 21:00 ,Round of 16,Argentina,2.0,2.0,England,0.0,0.0,1024.0,8779.0,Tied
+1998.0,03 Jul 1998 - 16:30 ,Quarter-finals,Italy,0.0,0.0,France,0.0,0.0,1025.0,8781.0,Tied
+1998.0,03 Jul 1998 - 21:00 ,Quarter-finals,Brazil,3.0,2.0,Denmark,2.0,1.0,1025.0,8782.0,Won
+1998.0,04 Jul 1998 - 16:30 ,Quarter-finals,Netherlands,2.0,1.0,Argentina,1.0,1.0,1025.0,8784.0,Won
+1998.0,04 Jul 1998 - 21:00 ,Quarter-finals,Germany,0.0,3.0,Croatia,0.0,1.0,1025.0,8783.0,Lost
+1998.0,07 Jul 1998 - 21:00 ,Semi-finals,Brazil,1.0,1.0,Netherlands,0.0,0.0,1026.0,8785.0,Tied
+1998.0,08 Jul 1998 - 21:00 ,Semi-finals,France,2.0,1.0,Croatia,0.0,0.0,1026.0,8786.0,Won
+1998.0,11 Jul 1998 - 21:00 ,Match for third place,Netherlands,1.0,2.0,Croatia,1.0,2.0,1028.0,8787.0,Lost
+1998.0,12 Jul 1998 - 21:00 ,Final,Brazil,0.0,3.0,France,0.0,2.0,1027.0,8788.0,Lost
+2002.0,31 May 2002 - 20:30 ,Group A,France,0.0,1.0,Senegal,0.0,1.0,43950100.0,43950001.0,Lost
+2002.0,01 Jun 2002 - 18:00 ,Group A,Uruguay,1.0,2.0,Denmark,0.0,1.0,43950100.0,43950003.0,Lost
+2002.0,01 Jun 2002 - 15:30 ,Group E,"rn"">Republic of Ireland",1.0,1.0,Cameroon,0.0,1.0,43950100.0,43950002.0,Tied
+2002.0,01 Jun 2002 - 20:30 ,Group E,Germany,8.0,0.0,Saudi Arabia,4.0,0.0,43950100.0,43950004.0,Won
+2002.0,02 Jun 2002 - 14:30 ,Group F,Argentina,1.0,0.0,Nigeria,0.0,0.0,43950100.0,43950007.0,Won
+2002.0,02 Jun 2002 - 16:30 ,Group B,Paraguay,2.0,2.0,South Africa,1.0,0.0,43950100.0,43950006.0,Tied
+2002.0,02 Jun 2002 - 18:30 ,Group F,England,1.0,1.0,Sweden,1.0,0.0,43950100.0,43950005.0,Tied
+2002.0,02 Jun 2002 - 20:30 ,Group B,Spain,3.0,1.0,Slovenia,1.0,0.0,43950100.0,43950008.0,Won
+2002.0,03 June 2002 - 18:00 ,Group C,Brazil,2.0,1.0,Turkey,0.0,1.0,43950100.0,43950010.0,Won
+2002.0,03 Jun 2002 - 20:30 ,Group G,Italy,2.0,0.0,Ecuador,2.0,0.0,43950100.0,43950011.0,Won
+2002.0,03 Jun 2002 - 15:30 ,Group G,Croatia,0.0,1.0,Mexico,0.0,0.0,43950100.0,43950009.0,Lost
+2002.0,04 June 2002 - 15:30 ,Group C,China PR,0.0,2.0,Costa Rica,0.0,0.0,43950100.0,43950012.0,Lost
+2002.0,04 June 2002 - 18:00 ,Group H,Japan,2.0,2.0,Belgium,0.0,0.0,43950100.0,43950013.0,Tied
+2002.0,04 Jun 2002 - 20:30 ,Group D,Korea Republic,2.0,0.0,Poland,1.0,0.0,43950100.0,43950014.0,Won
+2002.0,05 Jun 2002 - 15:30 ,Group H,Russia,2.0,0.0,Tunisia,0.0,0.0,43950100.0,43950015.0,Won
+2002.0,05 Jun 2002 - 18:00 ,Group D,USA,3.0,2.0,Portugal,3.0,1.0,43950100.0,43950016.0,Won
+2002.0,05 Jun 2002 - 20:30 ,Group E,Germany,1.0,1.0,"rn"">Republic of Ireland",1.0,0.0,43950100.0,43950017.0,Tied
+2002.0,06 Jun 2002 - 15:30 ,Group A,Denmark,1.0,1.0,Senegal,1.0,0.0,43950100.0,43950020.0,Tied
+2002.0,06 Jun 2002 - 18:00 ,Group E,Cameroon,1.0,0.0,Saudi Arabia,0.0,0.0,43950100.0,43950019.0,Won
+2002.0,06 Jun 2002 - 20:30 ,Group A,France,0.0,0.0,Uruguay,0.0,0.0,43950100.0,43950018.0,Tied
+2002.0,07 Jun 2002 - 15:30 ,Group F,Sweden,2.0,1.0,Nigeria,1.0,1.0,43950100.0,43950021.0,Won
+2002.0,07 Jun 2002 - 20:30 ,Group F,Argentina,0.0,1.0,England,0.0,1.0,43950100.0,43950023.0,Lost
+2002.0,07 June 2002 - 18:00 ,Group B,Spain,3.0,1.0,Paraguay,0.0,1.0,43950100.0,43950022.0,Won
+2002.0,08 Jun 2002 - 15:30 ,Group B,South Africa,1.0,0.0,Slovenia,1.0,0.0,43950100.0,43950024.0,Won
+2002.0,08 Jun 2002 - 20:30 ,Group C,Brazil,4.0,0.0,China PR,3.0,0.0,43950100.0,43950026.0,Won
+2002.0,08 June 2002 - 18:00 ,Group G,Italy,1.0,2.0,Croatia,0.0,0.0,43950100.0,43950025.0,Lost
+2002.0,09 Jun 2002 - 18:00 ,Group C,Costa Rica,1.0,1.0,Turkey,0.0,0.0,43950100.0,43950028.0,Tied
+2002.0,09 Jun 2002 - 20:30 ,Group H,Japan,1.0,0.0,Russia,0.0,0.0,43950100.0,43950029.0,Won
+2002.0,09 Jun 2002 - 15:30 ,Group G,Mexico,2.0,1.0,Ecuador,1.0,1.0,43950100.0,43950027.0,Won
+2002.0,10 Jun 2002 - 15:30 ,Group D,Korea Republic,1.0,1.0,USA,0.0,1.0,43950100.0,43950030.0,Tied
+2002.0,10 Jun 2002 - 20:30 ,Group D,Portugal,4.0,0.0,Poland,1.0,0.0,43950100.0,43950032.0,Won
+2002.0,10 Jun 2002 - 18:00 ,Group H,Tunisia,1.0,1.0,Belgium,1.0,1.0,43950100.0,43950031.0,Tied
+2002.0,11 Jun 2002 - 15:30 ,Group A,Denmark,2.0,0.0,France,1.0,0.0,43950100.0,43950033.0,Won
+2002.0,11 June 2002 - 15:30 ,Group A,Senegal,3.0,3.0,Uruguay,3.0,0.0,43950100.0,43950034.0,Tied
+2002.0,11 Jun 2002 - 20:30 ,Group E,Saudi Arabia,0.0,3.0,"rn"">Republic of Ireland",0.0,1.0,43950100.0,43950036.0,Lost
+2002.0,11 Jun 2002 - 20:30 ,Group E,Cameroon,0.0,2.0,Germany,0.0,0.0,43950100.0,43950035.0,Lost
+2002.0,12 Jun 2002 - 15:30 ,Group F,Sweden,1.0,1.0,Argentina,0.0,0.0,43950100.0,43950037.0,Tied
+2002.0,12 Jun 2002 - 15:30 ,Group F,Nigeria,0.0,0.0,England,0.0,0.0,43950100.0,43950038.0,Tied
+2002.0,12 Jun 2002 - 20:30 ,Group B,Slovenia,1.0,3.0,Paraguay,1.0,0.0,43950100.0,43950040.0,Lost
+2002.0,12 Jun 2002 - 20:30 ,Group B,South Africa,2.0,3.0,Spain,1.0,2.0,43950100.0,43950039.0,Lost
+2002.0,13 Jun 2002 - 15:30 ,Group C,Costa Rica,2.0,5.0,Brazil,1.0,3.0,43950100.0,43950041.0,Lost
+2002.0,13 Jun 2002 - 15:30 ,Group C,Turkey,3.0,0.0,China PR,2.0,0.0,43950100.0,43950042.0,Won
+2002.0,13 Jun 2002 - 20:30 ,Group G,Ecuador,1.0,0.0,Croatia,0.0,0.0,43950100.0,43950044.0,Won
+2002.0,13 Jun 2002 - 20:30 ,Group G,Mexico,1.0,1.0,Italy,1.0,0.0,43950100.0,43950043.0,Tied
+2002.0,14 Jun 2002 - 15:30 ,Group H,Tunisia,0.0,2.0,Japan,0.0,0.0,43950100.0,43950045.0,Lost
+2002.0,14 Jun 2002 - 20:30 ,Group D,Portugal,0.0,1.0,Korea Republic,0.0,0.0,43950100.0,43950047.0,Lost
+2002.0,14 Jun 2002 - 20:30 ,Group D,Poland,3.0,1.0,USA,2.0,0.0,43950100.0,43950048.0,Won
+2002.0,14 Jun 2002 - 15:30 ,Group H,Belgium,3.0,2.0,Russia,1.0,0.0,43950100.0,43950046.0,Won
+2002.0,15 Jun 2002 - 20:30 ,Round of 16,Denmark,0.0,3.0,England,0.0,3.0,43950200.0,43950050.0,Lost
+2002.0,15 Jun 2002 - 15:30 ,Round of 16,Germany,1.0,0.0,Paraguay,0.0,0.0,43950200.0,43950049.0,Won
+2002.0,16 Jun 2002 - 20:30 ,Round of 16,Spain,1.0,1.0,"rn"">Republic of Ireland",0.0,0.0,43950200.0,43950052.0,Tied
+2002.0,16 Jun 2002 - 15:30 ,Round of 16,Sweden,1.0,2.0,Senegal,0.0,0.0,43950200.0,43950051.0,Lost
+2002.0,17 Jun 2002 - 20:30 ,Round of 16,Brazil,2.0,0.0,Belgium,0.0,0.0,43950200.0,43950054.0,Won
+2002.0,17 June 2002 - 15:30 ,Round of 16,Mexico,0.0,2.0,USA,0.0,1.0,43950200.0,43950053.0,Lost
+2002.0,18 Jun 2002 - 15:30 ,Round of 16,Japan,0.0,1.0,Turkey,0.0,1.0,43950200.0,43950055.0,Lost
+2002.0,18 Jun 2002 - 20:30 ,Round of 16,Korea Republic,2.0,1.0,Italy,0.0,0.0,43950200.0,43950056.0,Won
+2002.0,21 Jun 2002 - 15:30 ,Quarter-finals,England,1.0,2.0,Brazil,1.0,1.0,43950300.0,43950057.0,Lost
+2002.0,21 Jun 2002 - 20:30 ,Quarter-finals,Germany,1.0,0.0,USA,1.0,0.0,43950300.0,43950058.0,Won
+2002.0,22 Jun 2002 - 20:30 ,Quarter-finals,Senegal,0.0,1.0,Turkey,0.0,0.0,43950300.0,43950060.0,Lost
+2002.0,22 Jun 2002 - 15:30 ,Quarter-finals,Spain,0.0,0.0,Korea Republic,0.0,0.0,43950300.0,43950059.0,Tied
+2002.0,25 Jun 2002 - 20:30 ,Semi-finals,Germany,1.0,0.0,Korea Republic,0.0,0.0,43950400.0,43950061.0,Won
+2002.0,26 Jun 2002 - 20:30 ,Semi-finals,Brazil,1.0,0.0,Turkey,0.0,0.0,43950400.0,43950062.0,Won
+2002.0,29 Jun 2002 - 20:00 ,Third place,Korea Republic,2.0,3.0,Turkey,1.0,3.0,43950500.0,43950063.0,Lost
+2002.0,30 Jun 2002 - 20:00 ,Final,Germany,0.0,2.0,Brazil,0.0,0.0,43950600.0,43950064.0,Lost
+2006.0,09 Jun 2006 - 18:00 ,Group A,Germany,4.0,2.0,Costa Rica,2.0,1.0,97410100.0,97410001.0,Won
+2006.0,09 Jun 2006 - 21:00 ,Group A,Poland,0.0,2.0,Ecuador,0.0,1.0,97410100.0,97410002.0,Lost
+2006.0,10 Jun 2006 - 15:00 ,Group B,England,1.0,0.0,Paraguay,1.0,0.0,97410100.0,97410003.0,Won
+2006.0,10 Jun 2006 - 18:00 ,Group B,"rn"">Trinidad and Tobago",0.0,0.0,Sweden,0.0,0.0,97410100.0,97410004.0,Tied
+2006.0,10 Jun 2006 - 21:00 ,Group C,Argentina,2.0,1.0,C�te d'Ivoire,2.0,0.0,97410100.0,97410005.0,Won
+2006.0,11 Jun 2006 - 15:00 ,Group C,"rn"">Serbia and Montenegro",0.0,1.0,Netherlands,0.0,1.0,97410100.0,97410006.0,Lost
+2006.0,11 Jun 2006 - 18:00 ,Group D,Mexico,3.0,1.0,Iran,1.0,1.0,97410100.0,97410007.0,Won
+2006.0,11 Jun 2006 - 21:00 ,Group D,Angola,0.0,1.0,Portugal,0.0,1.0,97410100.0,97410008.0,Lost
+2006.0,12 Jun 2006 - 15:00 ,Group F,Australia,3.0,1.0,Japan,0.0,1.0,97410100.0,97410012.0,Won
+2006.0,12 Jun 2006 - 18:00 ,Group E,USA,0.0,3.0,Czech Republic,0.0,2.0,97410100.0,97410010.0,Lost
+2006.0,12 Jun 2006 - 21:00 ,Group E,Italy,2.0,0.0,Ghana,1.0,0.0,97410100.0,97410009.0,Won
+2006.0,13 Jun 2006 - 15:00 ,Group G,Korea Republic,2.0,1.0,Togo,0.0,1.0,97410100.0,97410014.0,Won
+2006.0,13 Jun 2006 - 18:00 ,Group G,France,0.0,0.0,Switzerland,0.0,0.0,97410100.0,97410013.0,Tied
+2006.0,13 Jun 2006 - 21:00 ,Group F,Brazil,1.0,0.0,Croatia,1.0,0.0,97410100.0,97410011.0,Won
+2006.0,14 Jun 2006 - 15:00 ,Group H,Spain,4.0,0.0,Ukraine,2.0,0.0,97410100.0,97410015.0,Won
+2006.0,14 Jun 2006 - 18:00 ,Group H,Tunisia,2.0,2.0,Saudi Arabia,1.0,0.0,97410100.0,97410016.0,Tied
+2006.0,14 Jun 2006 - 21:00 ,Group A,Germany,1.0,0.0,Poland,0.0,0.0,97410100.0,97410017.0,Won
+2006.0,15 Jun 2006 - 15:00 ,Group A,Ecuador,3.0,0.0,Costa Rica,1.0,0.0,97410100.0,97410018.0,Won
+2006.0,15 Jun 2006 - 18:00 ,Group B,England,2.0,0.0,"rn"">Trinidad and Tobago",0.0,0.0,97410100.0,97410019.0,Won
+2006.0,15 Jun 2006 - 21:00 ,Group B,Sweden,1.0,0.0,Paraguay,0.0,0.0,97410100.0,97410020.0,Won
+2006.0,16 Jun 2006 - 15:00 ,Group C,Argentina,6.0,0.0,"rn"">Serbia and Montenegro",3.0,0.0,97410100.0,97410021.0,Won
+2006.0,16 Jun 2006 - 18:00 ,Group C,Netherlands,2.0,1.0,C�te d'Ivoire,2.0,1.0,97410100.0,97410022.0,Won
+2006.0,16 Jun 2006 - 21:00 ,Group D,Mexico,0.0,0.0,Angola,0.0,0.0,97410100.0,97410023.0,Tied
+2006.0,17 Jun 2006 - 15:00 ,Group D,Portugal,2.0,0.0,IR Iran,0.0,0.0,97410100.0,97410024.0,Won
+2006.0,17 Jun 2006 - 18:00 ,Group E,Czech Republic,0.0,2.0,Ghana,0.0,1.0,97410100.0,97410026.0,Lost
+2006.0,17 Jun 2006 - 21:00 ,Group E,Italy,1.0,1.0,USA,1.0,1.0,97410100.0,97410025.0,Tied
+2006.0,18 Jun 2006 - 15:00 ,Group F,Japan,0.0,0.0,Croatia,0.0,0.0,97410100.0,97410028.0,Tied
+2006.0,18 Jun 2006 - 18:00 ,Group F,Brazil,2.0,0.0,Australia,0.0,0.0,97410100.0,97410027.0,Won
+2006.0,18 Jun 2006 - 21:00 ,Group G,France,1.0,1.0,Korea Republic,1.0,0.0,97410100.0,97410029.0,Tied
+2006.0,19 Jun 2006 - 15:00 ,Group G,Togo,0.0,2.0,Switzerland,0.0,1.0,97410100.0,97410030.0,Lost
+2006.0,19 Jun 2006 - 18:00 ,Group H,Saudi Arabia,0.0,4.0,Ukraine,0.0,2.0,97410100.0,97410032.0,Lost
+2006.0,19 Jun 2006 - 21:00 ,Group H,Spain,3.0,1.0,Tunisia,0.0,1.0,97410100.0,97410031.0,Won
+2006.0,20 Jun 2006 - 16:00 ,Group A,Ecuador,0.0,3.0,Germany,0.0,2.0,97410100.0,97410033.0,Lost
+2006.0,20 Jun 2006 - 16:00 ,Group A,Costa Rica,1.0,2.0,Poland,1.0,1.0,97410100.0,97410034.0,Lost
+2006.0,20 Jun 2006 - 21:00 ,Group B,Sweden,2.0,2.0,England,0.0,1.0,97410100.0,97410035.0,Tied
+2006.0,20 Jun 2006 - 21:00 ,Group B,Paraguay,2.0,0.0,"rn"">Trinidad and Tobago",1.0,0.0,97410100.0,97410036.0,Won
+2006.0,21 Jun 2006 - 16:00 ,Group D,Iran,1.0,1.0,Angola,0.0,0.0,97410100.0,97410040.0,Tied
+2006.0,21 Jun 2006 - 16:00 ,Group D,Portugal,2.0,1.0,Mexico,2.0,1.0,97410100.0,97410039.0,Won
+2006.0,21 Jun 2006 - 21:00 ,Group C,Netherlands,0.0,0.0,Argentina,0.0,0.0,97410100.0,97410037.0,Tied
+2006.0,21 Jun 2006 - 21:00 ,Group C,C�te d'Ivoire,3.0,2.0,"rn"">Serbia and Montenegro",1.0,2.0,97410100.0,97410038.0,Won
+2006.0,22 Jun 2006 - 16:00 ,Group E,Czech Republic,0.0,2.0,Italy,0.0,1.0,97410100.0,97410041.0,Lost
+2006.0,22 Jun 2006 - 16:00 ,Group E,Ghana,2.0,1.0,USA,2.0,1.0,97410100.0,97410042.0,Won
+2006.0,22 Jun 2006 - 21:00 ,Group F,Japan,1.0,4.0,Brazil,1.0,1.0,97410100.0,97410043.0,Lost
+2006.0,22 Jun 2006 - 21:00 ,Group F,Croatia,2.0,2.0,Australia,1.0,1.0,97410100.0,97410044.0,Tied
+2006.0,23 Jun 2006 - 16:00 ,Group H,Ukraine,1.0,0.0,Tunisia,0.0,0.0,97410100.0,97410048.0,Won
+2006.0,23 Jun 2006 - 16:00 ,Group H,Saudi Arabia,0.0,1.0,Spain,0.0,1.0,97410100.0,97410047.0,Lost
+2006.0,23 Jun 2006 - 21:00 ,Group G,Togo,0.0,2.0,France,0.0,0.0,97410100.0,97410045.0,Lost
+2006.0,23 Jun 2006 - 21:00 ,Group G,Switzerland,2.0,0.0,Korea Republic,1.0,0.0,97410100.0,97410046.0,Won
+2006.0,24 Jun 2006 - 17:00 ,Round of 16,Germany,2.0,0.0,Sweden,2.0,0.0,97410200.0,97410049.0,Won
+2006.0,24 Jun 2006 - 21:00 ,Round of 16,Argentina,2.0,1.0,Mexico,0.0,0.0,97410200.0,97410050.0,Won
+2006.0,25 Jun 2006 - 17:00 ,Round of 16,England,1.0,0.0,Ecuador,0.0,0.0,97410200.0,97410051.0,Won
+2006.0,25 Jun 2006 - 21:00 ,Round of 16,Portugal,1.0,0.0,Netherlands,1.0,0.0,97410200.0,97410052.0,Won
+2006.0,26 Jun 2006 - 17:00 ,Round of 16,Italy,1.0,0.0,Australia,0.0,0.0,97410200.0,97410053.0,Won
+2006.0,26 Jun 2006 - 21:00 ,Round of 16,Switzerland,0.0,0.0,Ukraine,0.0,0.0,97410200.0,97410054.0,Tied
+2006.0,27 Jun 2006 - 17:00 ,Round of 16,Brazil,3.0,0.0,Ghana,2.0,0.0,97410200.0,97410055.0,Won
+2006.0,27 Jun 2006 - 21:00 ,Round of 16,Spain,1.0,3.0,France,1.0,1.0,97410200.0,97410056.0,Lost
+2006.0,30 Jun 2006 - 17:00 ,Quarter-finals,Germany,1.0,1.0,Argentina,0.0,0.0,97410300.0,97410057.0,Tied
+2006.0,30 Jun 2006 - 21:00 ,Quarter-finals,Italy,3.0,0.0,Ukraine,1.0,0.0,97410300.0,97410058.0,Won
+2006.0,01 Jul 2006 - 17:00 ,Quarter-finals,England,0.0,0.0,Portugal,0.0,0.0,97410300.0,97410059.0,Tied
+2006.0,01 Jul 2006 - 21:00 ,Quarter-finals,Brazil,0.0,1.0,France,0.0,0.0,97410300.0,97410060.0,Lost
+2006.0,04 Jul 2006 - 21:00 ,Semi-finals,Germany,0.0,2.0,Italy,0.0,0.0,97410400.0,97410061.0,Lost
+2006.0,05 Jul 2006 - 21:00 ,Semi-finals,Portugal,0.0,1.0,France,0.0,1.0,97410400.0,97410062.0,Lost
+2006.0,08 Jul 2006 - 21:00 ,Third place,Germany,3.0,1.0,Portugal,0.0,0.0,97410500.0,97410063.0,Won
+2006.0,09 Jul 2006 - 20:00 ,Final,Italy,1.0,1.0,France,0.0,0.0,97410600.0,97410064.0,Tied
+2010.0,11 Jun 2010 - 16:00 ,Group A,South Africa,1.0,1.0,Mexico,0.0,0.0,249722.0,300061454.0,Tied
+2010.0,11 Jun 2010 - 20:30 ,Group A,Uruguay,0.0,0.0,France,0.0,0.0,249722.0,300061453.0,Tied
+2010.0,12 Jun 2010 - 13:30 ,Group B,Korea Republic,2.0,0.0,Greece,1.0,0.0,249722.0,300061459.0,Won
+2010.0,12 Jun 2010 - 16:00 ,Group B,Argentina,1.0,0.0,Nigeria,1.0,0.0,249722.0,300061460.0,Won
+2010.0,12 Jun 2010 - 20:30 ,Group C,England,1.0,1.0,USA,1.0,1.0,249722.0,300061466.0,Tied
+2010.0,13 Jun 2010 - 13:30 ,Group C,Algeria,0.0,1.0,Slovenia,0.0,0.0,249722.0,300061465.0,Lost
+2010.0,13 Jun 2010 - 16:00 ,Group D,Serbia,0.0,1.0,Ghana,0.0,0.0,249722.0,300061471.0,Lost
+2010.0,13 Jun 2010 - 20:30 ,Group D,Germany,4.0,0.0,Australia,2.0,0.0,249722.0,300111116.0,Won
+2010.0,14 Jun 2010 - 13:30 ,Group E,Netherlands,2.0,0.0,Denmark,0.0,0.0,249722.0,300061478.0,Won
+2010.0,14 Jun 2010 - 16:00 ,Group E,Japan,1.0,0.0,Cameroon,1.0,0.0,249722.0,300061477.0,Won
+2010.0,14 Jun 2010 - 20:30 ,Group F,Italy,1.0,1.0,Paraguay,0.0,1.0,249722.0,300061484.0,Tied
+2010.0,15 Jun 2010 - 13:30 ,Group F,New Zealand,1.0,1.0,Slovakia,0.0,0.0,249722.0,300061483.0,Tied
+2010.0,15 Jun 2010 - 16:00 ,Group G,C�te d'Ivoire,0.0,0.0,Portugal,0.0,0.0,249722.0,300061489.0,Tied
+2010.0,15 Jun 2010 - 20:30 ,Group G,Brazil,2.0,1.0,Korea DPR,0.0,0.0,249722.0,300061490.0,Won
+2010.0,16 Jun 2010 - 13:30 ,Group H,Honduras,0.0,1.0,Chile,0.0,1.0,249722.0,300061495.0,Lost
+2010.0,16 Jun 2010 - 16:00 ,Group H,Spain,0.0,1.0,Switzerland,0.0,0.0,249722.0,300111112.0,Lost
+2010.0,16 Jun 2010 - 20:30 ,Group A,South Africa,0.0,3.0,Uruguay,0.0,1.0,249722.0,300061452.0,Lost
+2010.0,17 Jun 2010 - 13:30 ,Group B,Argentina,4.0,1.0,Korea Republic,2.0,1.0,249722.0,300061458.0,Won
+2010.0,17 Jun 2010 - 16:00 ,Group B,Greece,2.0,1.0,Nigeria,1.0,1.0,249722.0,300061457.0,Won
+2010.0,17 Jun 2010 - 20:30 ,Group A,France,0.0,2.0,Mexico,0.0,0.0,249722.0,300061451.0,Lost
+2010.0,18 Jun 2010 - 13:30 ,Group D,Germany,0.0,1.0,Serbia,0.0,1.0,249722.0,300061470.0,Lost
+2010.0,18 Jun 2010 - 16:00 ,Group C,Slovenia,2.0,2.0,USA,2.0,0.0,249722.0,300061463.0,Tied
+2010.0,18 Jun 2010 - 20:30 ,Group C,England,0.0,0.0,Algeria,0.0,0.0,249722.0,300061464.0,Tied
+2010.0,19 Jun 2010 - 13:30 ,Group E,Netherlands,1.0,0.0,Japan,0.0,0.0,249722.0,300111117.0,Won
+2010.0,19 Jun 2010 - 16:00 ,Group D,Ghana,1.0,1.0,Australia,1.0,1.0,249722.0,300061469.0,Tied
+2010.0,19 Jun 2010 - 20:30 ,Group E,Cameroon,1.0,2.0,Denmark,1.0,1.0,249722.0,300061475.0,Lost
+2010.0,20 Jun 2010 - 13:30 ,Group F,Slovakia,0.0,2.0,Paraguay,0.0,1.0,249722.0,300061481.0,Lost
+2010.0,20 Jun 2010 - 16:00 ,Group F,Italy,1.0,1.0,New Zealand,1.0,1.0,249722.0,300061482.0,Tied
+2010.0,20 Jun 2010 - 20:30 ,Group G,Brazil,3.0,1.0,C�te d'Ivoire,1.0,0.0,249722.0,300061488.0,Won
+2010.0,21 Jun 2010 - 13:30 ,Group G,Portugal,7.0,0.0,Korea DPR,1.0,0.0,249722.0,300061487.0,Won
+2010.0,21 Jun 2010 - 16:00 ,Group H,Chile,1.0,0.0,Switzerland,0.0,0.0,249722.0,300061493.0,Won
+2010.0,21 Jun 2010 - 20:30 ,Group H,Spain,2.0,0.0,Honduras,1.0,0.0,249722.0,300061494.0,Won
+2010.0,22 Jun 2010 - 16:00 ,Group A,Mexico,0.0,1.0,Uruguay,0.0,1.0,249722.0,300061450.0,Lost
+2010.0,22 Jun 2010 - 16:00 ,Group A,France,1.0,2.0,South Africa,0.0,2.0,249722.0,300061449.0,Lost
+2010.0,22 Jun 2010 - 20:30 ,Group B,Nigeria,2.0,2.0,Korea Republic,1.0,1.0,249722.0,300111115.0,Tied
+2010.0,22 Jun 2010 - 20:30 ,Group B,Greece,0.0,2.0,Argentina,0.0,0.0,249722.0,300061455.0,Lost
+2010.0,23 Jun 2010 - 16:00 ,Group C,Slovenia,0.0,1.0,England,0.0,1.0,249722.0,300061462.0,Lost
+2010.0,23 Jun 2010 - 16:00 ,Group C,USA,1.0,0.0,Algeria,0.0,0.0,249722.0,300061461.0,Won
+2010.0,23 Jun 2010 - 20:30 ,Group D,Ghana,0.0,1.0,Germany,0.0,0.0,249722.0,300061468.0,Lost
+2010.0,23 Jun 2010 - 20:30 ,Group D,Australia,2.0,1.0,Serbia,0.0,0.0,249722.0,300061467.0,Won
+2010.0,24 Jun 2010 - 16:00 ,Group F,Slovakia,3.0,2.0,Italy,1.0,0.0,249722.0,300061480.0,Won
+2010.0,24 Jun 2010 - 16:00 ,Group F,Paraguay,0.0,0.0,New Zealand,0.0,0.0,249722.0,300061479.0,Tied
+2010.0,24 Jun 2010 - 20:30 ,Group E,Denmark,1.0,3.0,Japan,0.0,2.0,249722.0,300061474.0,Lost
+2010.0,24 Jun 2010 - 20:30 ,Group E,Cameroon,1.0,2.0,Netherlands,0.0,1.0,249722.0,300061473.0,Lost
+2010.0,25 Jun 2010 - 16:00 ,Group G,Portugal,0.0,0.0,Brazil,0.0,0.0,249722.0,300111111.0,Tied
+2010.0,25 Jun 2010 - 16:00 ,Group G,Korea DPR,0.0,3.0,C�te d'Ivoire,0.0,2.0,249722.0,300061486.0,Lost
+2010.0,25 Jun 2010 - 20:30 ,Group H,Chile,1.0,2.0,Spain,0.0,2.0,249722.0,300061491.0,Lost
+2010.0,25 Jun 2010 - 20:30 ,Group H,Switzerland,0.0,0.0,Honduras,0.0,0.0,249722.0,300061492.0,Tied
+2010.0,26 Jun 2010 - 16:00 ,Round of 16,Uruguay,2.0,1.0,Korea Republic,1.0,0.0,249717.0,300061504.0,Won
+2010.0,26 Jun 2010 - 20:30 ,Round of 16,USA,1.0,2.0,Ghana,0.0,0.0,249717.0,300061503.0,Lost
+2010.0,27 Jun 2010 - 16:00 ,Round of 16,Germany,4.0,1.0,England,2.0,1.0,249717.0,300061501.0,Won
+2010.0,27 Jun 2010 - 20:30 ,Round of 16,Argentina,3.0,1.0,Mexico,2.0,0.0,249717.0,300061502.0,Won
+2010.0,28 Jun 2010 - 16:00 ,Round of 16,Netherlands,2.0,1.0,Slovakia,1.0,0.0,249717.0,300111113.0,Won
+2010.0,28 Jun 2010 - 20:30 ,Round of 16,Brazil,3.0,0.0,Chile,2.0,0.0,249717.0,300061500.0,Won
+2010.0,29 Jun 2010 - 16:00 ,Round of 16,Paraguay,0.0,0.0,Japan,0.0,0.0,249717.0,300061497.0,Tied
+2010.0,29 Jun 2010 - 20:30 ,Round of 16,Spain,1.0,0.0,Portugal,0.0,0.0,249717.0,300061498.0,Won
+2010.0,02 Jul 2010 - 16:00 ,Quarter-finals,Netherlands,2.0,1.0,Brazil,0.0,1.0,249718.0,300061507.0,Won
+2010.0,02 Jul 2010 - 20:30 ,Quarter-finals,Uruguay,1.0,1.0,Ghana,0.0,0.0,249718.0,300061508.0,Tied
+2010.0,03 Jul 2010 - 16:00 ,Quarter-finals,Argentina,0.0,4.0,Germany,0.0,1.0,249718.0,300061505.0,Lost
+2010.0,03 Jul 2010 - 20:30 ,Quarter-finals,Paraguay,0.0,1.0,Spain,0.0,0.0,249718.0,300061506.0,Lost
+2010.0,06 Jul 2010 - 20:30 ,Semi-finals,Uruguay,2.0,3.0,Netherlands,1.0,1.0,249719.0,300061512.0,Lost
+2010.0,07 Jul 2010 - 20:30 ,Semi-finals,Germany,0.0,1.0,Spain,0.0,0.0,249719.0,300111114.0,Lost
+2010.0,10 Jul 2010 - 20:30 ,Match for third place,Uruguay,2.0,3.0,Germany,1.0,1.0,249720.0,300061510.0,Lost
+2010.0,11 Jul 2010 - 20:30 ,Final,Netherlands,0.0,1.0,Spain,0.0,0.0,249721.0,300061509.0,Lost
+2014.0,12 Jun 2014 - 17:00 ,Group A,Brazil,3.0,1.0,Croatia,1.0,1.0,255931.0,300186456.0,Won
+2014.0,13 Jun 2014 - 13:00 ,Group A,Mexico,1.0,0.0,Cameroon,0.0,0.0,255931.0,300186492.0,Won
+2014.0,13 Jun 2014 - 16:00 ,Group B,Spain,1.0,5.0,Netherlands,1.0,1.0,255931.0,300186510.0,Lost
+2014.0,13 Jun 2014 - 18:00 ,Group B,Chile,3.0,1.0,Australia,2.0,1.0,255931.0,300186473.0,Won
+2014.0,14 Jun 2014 - 13:00 ,Group C,Colombia,3.0,0.0,Greece,1.0,0.0,255931.0,300186471.0,Won
+2014.0,14 Jun 2014 - 16:00 ,Group D,Uruguay,1.0,3.0,Costa Rica,1.0,0.0,255931.0,300186489.0,Lost
+2014.0,14 Jun 2014 - 18:00 ,Group D,England,1.0,2.0,Italy,1.0,1.0,255931.0,300186513.0,Lost
+2014.0,14 Jun 2014 - 22:00 ,Group C,C�te d'Ivoire,2.0,1.0,Japan,0.0,1.0,255931.0,300186507.0,Won
+2014.0,15 Jun 2014 - 13:00 ,Group E,Switzerland,2.0,1.0,Ecuador,0.0,1.0,255931.0,300186494.0,Won
+2014.0,15 Jun 2014 - 16:00 ,Group E,France,3.0,0.0,Honduras,1.0,0.0,255931.0,300186496.0,Won
+2014.0,15 Jun 2014 - 19:00 ,Group F,Argentina,2.0,1.0,"rn"">Bosnia and Herzegovina",1.0,0.0,255931.0,300186477.0,Won
+2014.0,16 Jun 2014 - 13:00 ,Group G,Germany,4.0,0.0,Portugal,3.0,0.0,255931.0,300186475.0,Won
+2014.0,16 Jun 2014 - 16:00 ,Group F,IR Iran,0.0,0.0,Nigeria,0.0,0.0,255931.0,300186505.0,Tied
+2014.0,16 Jun 2014 - 19:00 ,Group G,Ghana,1.0,2.0,USA,0.0,1.0,255931.0,300186512.0,Lost
+2014.0,17 Jun 2014 - 13:00 ,Group H,Belgium,2.0,1.0,Algeria,0.0,1.0,255931.0,300186479.0,Won
+2014.0,17 Jun 2014 - 16:00 ,Group A,Brazil,0.0,0.0,Mexico,0.0,0.0,255931.0,300186509.0,Tied
+2014.0,17 Jun 2014 - 18:00 ,Group H,Russia,1.0,1.0,Korea Republic,0.0,0.0,255931.0,300186499.0,Tied
+2014.0,18 Jun 2014 - 13:00 ,Group B,Australia,2.0,3.0,Netherlands,1.0,1.0,255931.0,300186478.0,Lost
+2014.0,18 Jun 2014 - 16:00 ,Group B,Spain,0.0,2.0,Chile,0.0,2.0,255931.0,300186498.0,Lost
+2014.0,18 Jun 2014 - 18:00 ,Group A,Cameroon,0.0,4.0,Croatia,0.0,1.0,255931.0,300186453.0,Lost
+2014.0,19 Jun 2014 - 13:00 ,Group C,Colombia,2.0,1.0,C�te d'Ivoire,0.0,0.0,255931.0,300186468.0,Won
+2014.0,19 Jun 2014 - 16:00 ,Group D,Uruguay,2.0,1.0,England,1.0,0.0,255931.0,300186486.0,Won
+2014.0,19 Jun 2014 - 19:00 ,Group C,Japan,0.0,0.0,Greece,0.0,0.0,255931.0,300186454.0,Tied
+2014.0,20 Jun 2014 - 13:00 ,Group D,Italy,0.0,1.0,Costa Rica,0.0,1.0,255931.0,300186500.0,Lost
+2014.0,20 Jun 2014 - 16:00 ,Group E,Switzerland,2.0,5.0,France,0.0,3.0,255931.0,300186514.0,Lost
+2014.0,20 Jun 2014 - 19:00 ,Group E,Honduras,1.0,2.0,Ecuador,1.0,1.0,255931.0,300186463.0,Lost
+2014.0,21 Jun 2014 - 13:00 ,Group F,Argentina,1.0,0.0,IR Iran,0.0,0.0,255931.0,300186466.0,Won
+2014.0,21 Jun 2014 - 16:00 ,Group G,Germany,2.0,2.0,Ghana,0.0,0.0,255931.0,300186493.0,Tied
+2014.0,21 Jun 2014 - 18:00 ,Group F,Nigeria,1.0,0.0,"rn"">Bosnia and Herzegovina",1.0,0.0,255931.0,300186511.0,Won
+2014.0,22 Jun 2014 - 13:00 ,Group H,Belgium,1.0,0.0,Russia,0.0,0.0,255931.0,300186481.0,Won
+2014.0,22 Jun 2014 - 16:00 ,Group H,Korea Republic,2.0,4.0,Algeria,0.0,3.0,255931.0,300186495.0,Lost
+2014.0,22 Jun 2014 - 18:00 ,Group G,USA,2.0,2.0,Portugal,0.0,1.0,255931.0,300186483.0,Tied
+2014.0,23 Jun 2014 - 13:00 ,Group B,Australia,0.0,3.0,Spain,0.0,1.0,255931.0,300186467.0,Lost
+2014.0,23 Jun 2014 - 13:00 ,Group B,Netherlands,2.0,0.0,Chile,0.0,0.0,255931.0,300186470.0,Won
+2014.0,23 Jun 2014 - 17:00 ,Group A,Cameroon,1.0,4.0,Brazil,1.0,2.0,255931.0,300186472.0,Lost
+2014.0,23 Jun 2014 - 17:00 ,Group A,Croatia,1.0,3.0,Mexico,0.0,0.0,255931.0,300186452.0,Lost
+2014.0,24 Jun 2014 - 13:00 ,Group D,Italy,0.0,1.0,Uruguay,0.0,0.0,255931.0,300186465.0,Lost
+2014.0,24 Jun 2014 - 13:00 ,Group D,Costa Rica,0.0,0.0,England,0.0,0.0,255931.0,300186484.0,Tied
+2014.0,24 Jun 2014 - 16:00 ,Group C,Japan,1.0,4.0,Colombia,1.0,1.0,255931.0,300186457.0,Lost
+2014.0,24 Jun 2014 - 17:00 ,Group C,Greece,2.0,1.0,C�te d'Ivoire,1.0,0.0,255931.0,300186455.0,Won
+2014.0,25 Jun 2014 - 13:00 ,Group F,Nigeria,2.0,3.0,Argentina,1.0,2.0,255931.0,300186458.0,Lost
+2014.0,25 Jun 2014 - 13:00 ,Group F,"rn"">Bosnia and Herzegovina",3.0,1.0,IR Iran,1.0,0.0,255931.0,300186464.0,Won
+2014.0,25 Jun 2014 - 16:00 ,Group E,Honduras,0.0,3.0,Switzerland,0.0,2.0,255931.0,300186482.0,Lost
+2014.0,25 Jun 2014 - 17:00 ,Group E,Ecuador,0.0,0.0,France,0.0,0.0,255931.0,300186515.0,Tied
+2014.0,26 Jun 2014 - 13:00 ,Group G,USA,0.0,1.0,Germany,0.0,0.0,255931.0,300186469.0,Lost
+2014.0,26 Jun 2014 - 13:00 ,Group G,Portugal,2.0,1.0,Ghana,1.0,0.0,255931.0,300186476.0,Won
+2014.0,26 Jun 2014 - 17:00 ,Group H,Korea Republic,0.0,1.0,Belgium,0.0,0.0,255931.0,300186480.0,Lost
+2014.0,26 Jun 2014 - 17:00 ,Group H,Algeria,1.0,1.0,Russia,0.0,1.0,255931.0,300186506.0,Tied
+2014.0,28 Jun 2014 - 13:00 ,Round of 16,Brazil,1.0,1.0,Chile,0.0,0.0,255951.0,300186487.0,Tied
+2014.0,28 Jun 2014 - 17:00 ,Round of 16,Colombia,2.0,0.0,Uruguay,1.0,0.0,255951.0,300186491.0,Won
+2014.0,30 Jun 2014 - 13:00 ,Round of 16,France,2.0,0.0,Nigeria,0.0,0.0,255951.0,300186462.0,Won
+2014.0,30 Jun 2014 - 17:00 ,Round of 16,Germany,2.0,1.0,Algeria,0.0,0.0,255951.0,300186460.0,Won
+2014.0,04 Jul 2014 - 17:00 ,Quarter-finals,Brazil,2.0,1.0,Colombia,1.0,0.0,255953.0,300186461.0,Won
+2014.0,04 Jul 2014 - 13:00 ,Quarter-finals,France,0.0,1.0,Germany,0.0,1.0,255953.0,300186485.0,Lost
+2014.0,08 Jul 2014 - 17:00 ,Semi-finals,Brazil,1.0,7.0,Germany,0.0,5.0,255955.0,300186474.0,Lost
+2014.0,12 Jul 2014 - 17:00 ,Play-off for third place,Brazil,0.0,3.0,Netherlands,0.0,2.0,255957.0,300186502.0,Lost
+2014.0,13 Jul 2014 - 16:00 ,Final,Germany,1.0,0.0,Argentina,0.0,0.0,255959.0,300186501.0,Won
+2014.0,09 Jul 2014 - 17:00 ,Semi-finals,Netherlands,0.0,0.0,Argentina,0.0,0.0,255955.0,300186490.0,Tied
+2014.0,05 Jul 2014 - 17:00 ,Quarter-finals,Netherlands,0.0,0.0,Costa Rica,0.0,0.0,255953.0,300186488.0,Tied
+2014.0,05 Jul 2014 - 13:00 ,Quarter-finals,Argentina,1.0,0.0,Belgium,1.0,0.0,255953.0,300186504.0,Won
+2014.0,29 Jun 2014 - 13:00 ,Round of 16,Netherlands,2.0,1.0,Mexico,0.0,0.0,255951.0,300186508.0,Won
+2014.0,29 Jun 2014 - 17:00 ,Round of 16,Costa Rica,1.0,1.0,Greece,0.0,0.0,255951.0,300186459.0,Tied
+2014.0,01 Jul 2014 - 13:00 ,Round of 16,Argentina,1.0,0.0,Switzerland,0.0,0.0,255951.0,300186503.0,Won
+2014.0,01 Jul 2014 - 17:00 ,Round of 16,Belgium,2.0,1.0,USA,0.0,0.0,255951.0,300186497.0,Won
+2014.0,28 Jun 2014 - 13:00 ,Round of 16,Brazil,1.0,1.0,Chile,0.0,0.0,255951.0,300186487.0,Tied
+2014.0,28 Jun 2014 - 17:00 ,Round of 16,Colombia,2.0,0.0,Uruguay,1.0,0.0,255951.0,300186491.0,Won
+2014.0,29 Jun 2014 - 13:00 ,Round of 16,Netherlands,2.0,1.0,Mexico,0.0,0.0,255951.0,300186508.0,Won
+2014.0,29 Jun 2014 - 17:00 ,Round of 16,Costa Rica,1.0,1.0,Greece,0.0,0.0,255951.0,300186459.0,Tied
+2014.0,30 Jun 2014 - 13:00 ,Round of 16,France,2.0,0.0,Nigeria,0.0,0.0,255951.0,300186462.0,Won
+2014.0,30 Jun 2014 - 17:00 ,Round of 16,Germany,2.0,1.0,Algeria,0.0,0.0,255951.0,300186460.0,Won
+2014.0,01 Jul 2014 - 13:00 ,Round of 16,Argentina,1.0,0.0,Switzerland,0.0,0.0,255951.0,300186503.0,Won
+2014.0,01 Jul 2014 - 17:00 ,Round of 16,Belgium,2.0,1.0,USA,0.0,0.0,255951.0,300186497.0,Won
+2014.0,04 Jul 2014 - 13:00 ,Quarter-finals,France,0.0,1.0,Germany,0.0,1.0,255953.0,300186485.0,Lost
+2014.0,04 Jul 2014 - 17:00 ,Quarter-finals,Brazil,2.0,1.0,Colombia,1.0,0.0,255953.0,300186461.0,Won
+2014.0,05 Jul 2014 - 13:00 ,Quarter-finals,Argentina,1.0,0.0,Belgium,1.0,0.0,255953.0,300186504.0,Won
+2014.0,05 Jul 2014 - 17:00 ,Quarter-finals,Netherlands,0.0,0.0,Costa Rica,0.0,0.0,255953.0,300186488.0,Tied
+2014.0,08 Jul 2014 - 17:00 ,Semi-finals,Brazil,1.0,7.0,Germany,0.0,5.0,255955.0,300186474.0,Lost
+2014.0,09 Jul 2014 - 17:00 ,Semi-finals,Netherlands,0.0,0.0,Argentina,0.0,0.0,255955.0,300186490.0,Tied
+2014.0,12 Jul 2014 - 17:00 ,Play-off for third place,Brazil,0.0,3.0,Netherlands,0.0,2.0,255957.0,300186502.0,Lost
+2014.0,13 Jul 2014 - 16:00 ,Final,Germany,1.0,0.0,Argentina,0.0,0.0,255959.0,300186501.0,Won
