@@ -12,7 +12,6 @@ wcmatchesURL='https://raw.githubusercontent.com/Jhovanylara/FIFA-WorldCup2022/ma
 
 matches=pd.read_csv(matchesURL)
 wcmatches=pd.read_csv(wcmatchesURL)
-
 col1,col2,col3=st.columns(3)
 with col2:
     st.image('https://raw.githubusercontent.com/Jhovanylara/FIFA-WorldCup2022/master/Images/vecteezy_mondial-fifa-world-cup-qatar-2022-official-logo-champion_8785666.jpg', width=200)
@@ -38,32 +37,48 @@ elif Grupo=='GroupH':
 
 Team=st.selectbox("Select a Team:", (Grupo))
 
+def wc(FIFATeam):
+    df=wcmatches[(wcmatches.home_team==FIFATeam)]
+    return df
+
+dfa=wc(Team)
+
+mundiales=dfa['year'].unique()
+if len(mundiales)>0:
+    np.sort(mundiales)
+    anio=st.select_slider('Select from which year to get WC data:', options=mundiales)
+
 def getlocal(FIFATeam):
     df=matches[(matches.home_team==FIFATeam)]
+    
+    df=df[df['Year'].between(anio,2018)]
     return df
 
 def wcgetlocal(FIFATeam):
     df=wcmatches[(wcmatches.home_team==FIFATeam)]
+    df=df[df['year'].between(anio,2018)]
     return df
 
 def getvisit(FIFATeam):
     df=matches[(matches.away_team==FIFATeam)]
+    df=df[df['Year'].between(anio,2018)]
     return df
 
 def wcgetvisit(FIFATeam):
     df=wcmatches[(wcmatches.away_team==FIFATeam)]
+    df=df[df['year'].between(anio,2018)]
     return df
     
-
 df1=getlocal(Team)
 df2=getvisit(Team)
 df3=wcgetlocal(Team)
 df4=wcgetvisit(Team)
 
 
+
 tab1, tab2, tab3= st.tabs(['Local',"Visitor","Global"])
 with tab1:
-    '''### As local:'''
+    f'''### As local since {anio}:'''
     if df3.empty:
         f"This is the first appearance of {Team} in the World Cup."
     else:
@@ -87,6 +102,7 @@ with tab1:
         else:
             tied_local=0
 
+        
         f"{Team} has scored {G1} goals and conceded {G2} goals, in {partidos} matches."
         f"The {round((1-G3/G1_1)*100,1)}% of their goals are scored in the second half."
         f"The {round((1-G4/G2_1)*100,1)}% of conceded goals are scored in the second half."
@@ -95,7 +111,7 @@ with tab1:
         df1=df1.sort_values(by=['Year'])
         
 with tab2:
-    '''### As a visitor:'''
+    f'''### As a visitor since {anio}:'''
     if df4.empty:
         f"This is the first appearance of {Team} in the World Cup."
     else:
@@ -124,7 +140,7 @@ with tab2:
         f"{Team} as visitor has won {wins_visit} matches, has lost {lost_visit} and has tied {tied_visit} matches. With a {round((wins_visit/partidos_visit)*100,1)}% win rate."
 
 with tab3:
-    '''### In all World Cup matches:'''
+    f'''### Since {anio} in World Cup matches:'''
     if df3.empty:
         f"This is the first appearance of {Team} in the World Cup."
     else:
@@ -139,10 +155,13 @@ with tab3:
         lost=lost_local+lost_visit
         tied=tied_local+tied_visit
 
+        f"{Team} has participated in {len(mundiales)} World Cups."
         f"{Team} has scored {Anotados} goals and conceded {Recibidos} goals, in {Partidos_totales} matches."
         f"The {round((1-Anotados1T/Anotados_2014)*100,1)}% of their goals are scored in the second half."
         f"The {round((1-Recibidos1T/Recibidos_2014)*100,1)}% of conceded goals are scored in the second half."
         f"{Team} has won {wins} matches, has lost {lost} matches and has tied {tied}  matches, with a {round((wins/Partidos_totales)*100,1)}% win rate."
+
+        
 
         lista1=df3['away_team'].unique()
         Enfrentamientos1=[]
@@ -168,13 +187,13 @@ with tab3:
         
 
         trace  = go.Bar(
-                x=Rivales['Rival'].tolist()[:20],
+                x=Rivales['Rival'].tolist()[:10],
                 y=Rivales['Matches'].tolist(),
                 showlegend = False
                 )
 
         layout = go.Layout(       
-                        title={'text': 'Top 20 rivals faced',
+                        title={'text': 'Top 10 rivals faced',
                                 'y':0.9,
                                 'x':0.5,
                                 'xanchor': 'center',
@@ -185,3 +204,4 @@ with tab3:
         data = [trace]
         fig = go.Figure(data=data,layout = layout)
         st.plotly_chart(fig)
+
